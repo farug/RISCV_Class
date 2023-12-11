@@ -13,7 +13,7 @@ module Data_mem #(parameter Depth = 128, Width = 32) (
 
     initial begin
         #1;
-        $readmemh("C:/Users/omer/Desktop/Okul/Dersler_22-23_2.half/EHB425E/HW-08/verilog/bubble_sort.data",mem);
+        $readmemh("C:/Users/omer/Documents/GitHub/RISCV_Class/RISCV_Pipeline/bubble_sort.data",mem);
     end
 
     assign rd_addr0p = rd_addr0 >> 2;
@@ -31,22 +31,22 @@ module Data_mem #(parameter Depth = 128, Width = 32) (
                 mem[wr_addr0p][7:0] <= wr_din0[7:0];
             end
             else if (wr_strb == 4'b0010) begin
-                mem[wr_addr0p][15:8] <= wr_din0[15:8];
+                mem[wr_addr0p][15:8] <= wr_din0[7:0];
             end
             else if (wr_strb == 4'b0011) begin
                 mem[wr_addr0p][15:0] <= wr_din0[15:0];
             end
             else if (wr_strb == 4'b0100) begin
-                mem[wr_addr0p][23:16] <= wr_din0[23:16];
+                mem[wr_addr0p][23:16] <= wr_din0[7:0];
             end
             else if (wr_strb == 4'b0110) begin
-                mem[wr_addr0p][23:8] <= wr_din0[23:8];
+                mem[wr_addr0p][23:8] <= wr_din0[15:0];
             end
             else if (wr_strb == 4'b1000) begin
-                mem[wr_addr0p][31:24] <= wr_din0[31:24];
+                mem[wr_addr0p][31:24] <= wr_din0[7:0];
             end
             else if (wr_strb == 4'b1100) begin
-                mem[wr_addr0p][31:16] <= wr_din0[31:16];
+                mem[wr_addr0p][31:16] <= wr_din0[15:0];
             end
             else if (wr_strb == 4'b1111) begin
                 mem[wr_addr0p] <= wr_din0;
@@ -54,6 +54,10 @@ module Data_mem #(parameter Depth = 128, Width = 32) (
         end
     end
 
-    assign rd_dout0 = mem[rd_addr0p];
+    //assign rd_dout0 = mem[rd_addr0p];
+    assign rd_dout0[7:0] = (wr_strb[0]) ? mem[rd_addr0p][7:0] : 8'd0;
+    assign rd_dout0[15:8] = (wr_strb[1]) ? mem[rd_addr0p][15:8] : (wr_strb[0]) ? 8'hff: 8'd0;
+    assign rd_dout0[23:16] = (wr_strb[2]) ? mem[rd_addr0p][23:16] : (wr_strb[0] | wr_strb[1]) ? 8'hff : 8'd0 ;
+    assign rd_dout0[31:24] = (wr_strb[3]) ? mem[rd_addr0p][31:24] : (wr_strb[0] | wr_strb[1] | wr_strb[2]) ? 8'hff : 8'd0;
 
 endmodule
