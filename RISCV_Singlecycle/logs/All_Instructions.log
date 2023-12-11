@@ -1,0 +1,6 @@
+LUI     TRUE
+AUIPC     TRUE
+SB     TRUE
+BNE and ADDI     TRUE
+JAL and SUB     TRUE
+BEQ and ADD and AND     TRUE

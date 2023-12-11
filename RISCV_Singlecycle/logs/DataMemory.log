@@ -1,0 +1,3474 @@
+  STRB = 0001 
+
+Expected value is =        178, The result is =        178  True  for           0
+
+--------------------------
+Expected value is =        195, The result is =        195  True  for           1
+
+--------------------------
+Expected value is =        210, The result is =        210  True  for           2
+
+--------------------------
+Expected value is =        189, The result is =        189  True  for           3
+
+--------------------------
+Expected value is =        239, The result is =        239  True  for           4
+
+--------------------------
+Expected value is =         17, The result is =         17  True  for           5
+
+--------------------------
+Expected value is =         18, The result is =         18  True  for           6
+
+--------------------------
+Expected value is =         19, The result is =         19  True  for           7
+
+--------------------------
+Expected value is =        178, The result is =        178  True  for           8
+
+--------------------------
+Expected value is =        178, The result is =        178  True  for           9
+
+--------------------------
+Expected value is =        209, The result is =        209  True  for          10
+
+--------------------------
+Expected value is =        178, The result is =        178  True  for          11
+
+--------------------------
+Expected value is =        195, The result is =        195  True  for          12
+
+--------------------------
+Expected value is =        210, The result is =        210  True  for          13
+
+--------------------------
+Expected value is =        189, The result is =        189  True  for          14
+
+--------------------------
+Expected value is =        239, The result is =        239  True  for          15
+
+--------------------------
+Expected value is =         17, The result is =         17  True  for          16
+
+--------------------------
+Expected value is =         18, The result is =         18  True  for          17
+
+--------------------------
+Expected value is =         19, The result is =         19  True  for          18
+
+--------------------------
+Expected value is =        178, The result is =        178  True  for          19
+
+--------------------------
+Expected value is =        178, The result is =        178  True  for          20
+
+--------------------------
+Expected value is =        209, The result is =        209  True  for          21
+
+--------------------------
+Expected value is =        195, The result is =        195  True  for          22
+
+--------------------------
+Expected value is =        210, The result is =        210  True  for          23
+
+--------------------------
+Expected value is =        189, The result is =        189  True  for          24
+
+--------------------------
+Expected value is =        239, The result is =        239  True  for          25
+
+--------------------------
+Expected value is =         17, The result is =         17  True  for          26
+
+--------------------------
+Expected value is =         18, The result is =         18  True  for          27
+
+--------------------------
+Expected value is =         19, The result is =         19  True  for          28
+
+--------------------------
+Expected value is =        178, The result is =        178  True  for          29
+
+--------------------------
+Expected value is =        178, The result is =        178  True  for          30
+
+--------------------------
+Expected value is =        209, The result is =        209  True  for          31
+
+--------------------------
+Expected value is =        195, The result is =        195  True  for          32
+
+--------------------------
+Expected value is =        210, The result is =        210  True  for          33
+
+--------------------------
+Expected value is =        189, The result is =        189  True  for          34
+
+--------------------------
+Expected value is =        239, The result is =        239  True  for          35
+
+--------------------------
+Expected value is =         17, The result is =         17  True  for          36
+
+--------------------------
+Expected value is =         18, The result is =         18  True  for          37
+
+--------------------------
+Expected value is =         19, The result is =         19  True  for          38
+
+--------------------------
+Expected value is =        178, The result is =        178  True  for          39
+
+--------------------------
+Expected value is =        178, The result is =        178  True  for          40
+
+--------------------------
+Expected value is =        209, The result is =        209  True  for          41
+
+--------------------------
+Expected value is =        195, The result is =        195  True  for          42
+
+--------------------------
+Expected value is =        210, The result is =        210  True  for          43
+
+--------------------------
+Expected value is =        189, The result is =        189  True  for          44
+
+--------------------------
+Expected value is =        239, The result is =        239  True  for          45
+
+--------------------------
+Expected value is =         17, The result is =         17  True  for          46
+
+--------------------------
+Expected value is =         18, The result is =         18  True  for          47
+
+--------------------------
+Expected value is =         19, The result is =         19  True  for          48
+
+--------------------------
+Expected value is =        178, The result is =        178  True  for          49
+
+--------------------------
+Expected value is =        178, The result is =        178  True  for          50
+
+--------------------------
+Expected value is =        209, The result is =        209  True  for          51
+
+--------------------------
+Expected value is =        195, The result is =        195  True  for          52
+
+--------------------------
+Expected value is =        210, The result is =        210  True  for          53
+
+--------------------------
+Expected value is =        189, The result is =        189  True  for          54
+
+--------------------------
+Expected value is =        239, The result is =        239  True  for          55
+
+--------------------------
+Expected value is =         17, The result is =         17  True  for          56
+
+--------------------------
+Expected value is =         18, The result is =         18  True  for          57
+
+--------------------------
+Expected value is =         19, The result is =         19  True  for          58
+
+--------------------------
+Expected value is =        178, The result is =        178  True  for          59
+
+--------------------------
+Expected value is =        178, The result is =        178  True  for          60
+
+--------------------------
+Expected value is =        209, The result is =        209  True  for          61
+
+--------------------------
+Expected value is =        195, The result is =        195  True  for          62
+
+--------------------------
+Expected value is =        210, The result is =        210  True  for          63
+
+--------------------------
+Expected value is =        189, The result is =        189  True  for          64
+
+--------------------------
+Expected value is =        239, The result is =        239  True  for          65
+
+--------------------------
+Expected value is =         17, The result is =         17  True  for          66
+
+--------------------------
+Expected value is =         18, The result is =         18  True  for          67
+
+--------------------------
+Expected value is =         19, The result is =         19  True  for          68
+
+--------------------------
+Expected value is =        178, The result is =        178  True  for          69
+
+--------------------------
+Expected value is =        178, The result is =        178  True  for          70
+
+--------------------------
+Expected value is =        209, The result is =        209  True  for          71
+
+--------------------------
+Expected value is =        195, The result is =        195  True  for          72
+
+--------------------------
+Expected value is =        210, The result is =        210  True  for          73
+
+--------------------------
+Expected value is =        189, The result is =        189  True  for          74
+
+--------------------------
+Expected value is =        239, The result is =        239  True  for          75
+
+--------------------------
+Expected value is =         17, The result is =         17  True  for          76
+
+--------------------------
+Expected value is =         18, The result is =         18  True  for          77
+
+--------------------------
+Expected value is =         19, The result is =         19  True  for          78
+
+--------------------------
+Expected value is =        178, The result is =        178  True  for          79
+
+--------------------------
+Expected value is =        178, The result is =        178  True  for          80
+
+--------------------------
+Expected value is =        209, The result is =        209  True  for          81
+
+--------------------------
+Expected value is =        195, The result is =        195  True  for          82
+
+--------------------------
+Expected value is =        210, The result is =        210  True  for          83
+
+--------------------------
+Expected value is =        189, The result is =        189  True  for          84
+
+--------------------------
+Expected value is =        239, The result is =        239  True  for          85
+
+--------------------------
+Expected value is =         17, The result is =         17  True  for          86
+
+--------------------------
+Expected value is =         18, The result is =         18  True  for          87
+
+--------------------------
+Expected value is =         19, The result is =         19  True  for          88
+
+--------------------------
+Expected value is =        178, The result is =        178  True  for          89
+
+--------------------------
+Expected value is =        178, The result is =        178  True  for          90
+
+--------------------------
+Expected value is =        209, The result is =        209  True  for          91
+
+--------------------------
+Expected value is =        195, The result is =        195  True  for          92
+
+--------------------------
+Expected value is =        210, The result is =        210  True  for          93
+
+--------------------------
+Expected value is =        189, The result is =        189  True  for          94
+
+--------------------------
+Expected value is =        239, The result is =        239  True  for          95
+
+--------------------------
+Expected value is =         17, The result is =         17  True  for          96
+
+--------------------------
+Expected value is =         18, The result is =         18  True  for          97
+
+--------------------------
+Expected value is =         19, The result is =         19  True  for          98
+
+--------------------------
+Expected value is =        178, The result is =        178  True  for          99
+
+--------------------------
+Expected value is =        178, The result is =        178  True  for         100
+
+--------------------------
+Expected value is =        209, The result is =        209  True  for         101
+
+--------------------------
+Expected value is =        195, The result is =        195  True  for         102
+
+--------------------------
+Expected value is =        210, The result is =        210  True  for         103
+
+--------------------------
+Expected value is =        189, The result is =        189  True  for         104
+
+--------------------------
+Expected value is =        239, The result is =        239  True  for         105
+
+--------------------------
+Expected value is =         17, The result is =         17  True  for         106
+
+--------------------------
+Expected value is =         18, The result is =         18  True  for         107
+
+--------------------------
+Expected value is =         19, The result is =         19  True  for         108
+
+--------------------------
+Expected value is =        178, The result is =        178  True  for         109
+
+--------------------------
+Expected value is =        178, The result is =        178  True  for         110
+
+--------------------------
+Expected value is =         17, The result is =         17  True  for         111
+
+--------------------------
+Expected value is =        195, The result is =        195  True  for         112
+
+--------------------------
+Expected value is =        210, The result is =        210  True  for         113
+
+--------------------------
+Expected value is =        189, The result is =        189  True  for         114
+
+--------------------------
+Expected value is =        239, The result is =        239  True  for         115
+
+--------------------------
+Expected value is =         17, The result is =         17  True  for         116
+
+--------------------------
+Expected value is =         18, The result is =         18  True  for         117
+
+--------------------------
+Expected value is =         19, The result is =         19  True  for         118
+
+--------------------------
+Expected value is =        178, The result is =        178  True  for         119
+
+--------------------------
+Expected value is =        178, The result is =        178  True  for         120
+
+--------------------------
+Expected value is =         17, The result is =         17  True  for         121
+
+--------------------------
+Expected value is =        195, The result is =        195  True  for         122
+
+--------------------------
+Expected value is =        210, The result is =        210  True  for         123
+
+--------------------------
+Expected value is =        189, The result is =        189  True  for         124
+
+--------------------------
+Expected value is =        239, The result is =        239  True  for         125
+
+--------------------------
+Expected value is =         17, The result is =         17  True  for         126
+
+--------------------------
+Expected value is =         18, The result is =         18  True  for         127
+
+--------------------------
+  STRB = 0010 
+
+Expected value is =      45568, The result is =       6656  True  for           0
+
+--------------------------
+Expected value is =      49920, The result is =      11008  True  for           1
+
+--------------------------
+Expected value is =      53760, The result is =       6912  True  for           2
+
+--------------------------
+Expected value is =      48384, The result is =       4352  True  for           3
+
+--------------------------
+Expected value is =      61184, The result is =       4608  True  for           4
+
+--------------------------
+Expected value is =       4352, The result is =      43776  True  for           5
+
+--------------------------
+Expected value is =       4608, The result is =      47872  True  for           6
+
+--------------------------
+Expected value is =       4864, The result is =      52480  True  for           7
+
+--------------------------
+Expected value is =      45568, The result is =       6656  True  for           8
+
+--------------------------
+Expected value is =      45568, The result is =       6656  True  for           9
+
+--------------------------
+Expected value is =      53504, The result is =      41472  True  for          10
+
+--------------------------
+Expected value is =      45568, The result is =       6656  True  for          11
+
+--------------------------
+Expected value is =      49920, The result is =      11008  True  for          12
+
+--------------------------
+Expected value is =      53760, The result is =       6912  True  for          13
+
+--------------------------
+Expected value is =      48384, The result is =       4352  True  for          14
+
+--------------------------
+Expected value is =      61184, The result is =       4608  True  for          15
+
+--------------------------
+Expected value is =       4352, The result is =      43776  True  for          16
+
+--------------------------
+Expected value is =       4608, The result is =      47872  True  for          17
+
+--------------------------
+Expected value is =       4864, The result is =      52480  True  for          18
+
+--------------------------
+Expected value is =      45568, The result is =       6656  True  for          19
+
+--------------------------
+Expected value is =      45568, The result is =       6656  True  for          20
+
+--------------------------
+Expected value is =      53504, The result is =      41472  True  for          21
+
+--------------------------
+Expected value is =      49920, The result is =      11008  True  for          22
+
+--------------------------
+Expected value is =      53760, The result is =       6912  True  for          23
+
+--------------------------
+Expected value is =      48384, The result is =       4352  True  for          24
+
+--------------------------
+Expected value is =      61184, The result is =       4608  True  for          25
+
+--------------------------
+Expected value is =       4352, The result is =      43776  True  for          26
+
+--------------------------
+Expected value is =       4608, The result is =      47872  True  for          27
+
+--------------------------
+Expected value is =       4864, The result is =      52480  True  for          28
+
+--------------------------
+Expected value is =      45568, The result is =       6656  True  for          29
+
+--------------------------
+Expected value is =      45568, The result is =       6656  True  for          30
+
+--------------------------
+Expected value is =      53504, The result is =      41472  True  for          31
+
+--------------------------
+Expected value is =      49920, The result is =      11008  True  for          32
+
+--------------------------
+Expected value is =      53760, The result is =       6912  True  for          33
+
+--------------------------
+Expected value is =      48384, The result is =       4352  True  for          34
+
+--------------------------
+Expected value is =      61184, The result is =       4608  True  for          35
+
+--------------------------
+Expected value is =       4352, The result is =      43776  True  for          36
+
+--------------------------
+Expected value is =       4608, The result is =      47872  True  for          37
+
+--------------------------
+Expected value is =       4864, The result is =      52480  True  for          38
+
+--------------------------
+Expected value is =      45568, The result is =       6656  True  for          39
+
+--------------------------
+Expected value is =      45568, The result is =       6656  True  for          40
+
+--------------------------
+Expected value is =      53504, The result is =      41472  True  for          41
+
+--------------------------
+Expected value is =      49920, The result is =      11008  True  for          42
+
+--------------------------
+Expected value is =      53760, The result is =       6912  True  for          43
+
+--------------------------
+Expected value is =      48384, The result is =       4352  True  for          44
+
+--------------------------
+Expected value is =      61184, The result is =       4608  True  for          45
+
+--------------------------
+Expected value is =       4352, The result is =      43776  True  for          46
+
+--------------------------
+Expected value is =       4608, The result is =      47872  True  for          47
+
+--------------------------
+Expected value is =       4864, The result is =      52480  True  for          48
+
+--------------------------
+Expected value is =      45568, The result is =       6656  True  for          49
+
+--------------------------
+Expected value is =      45568, The result is =       6656  True  for          50
+
+--------------------------
+Expected value is =      53504, The result is =      41472  True  for          51
+
+--------------------------
+Expected value is =      49920, The result is =      11008  True  for          52
+
+--------------------------
+Expected value is =      53760, The result is =       6912  True  for          53
+
+--------------------------
+Expected value is =      48384, The result is =       4352  True  for          54
+
+--------------------------
+Expected value is =      61184, The result is =       4608  True  for          55
+
+--------------------------
+Expected value is =       4352, The result is =      43776  True  for          56
+
+--------------------------
+Expected value is =       4608, The result is =      47872  True  for          57
+
+--------------------------
+Expected value is =       4864, The result is =      52480  True  for          58
+
+--------------------------
+Expected value is =      45568, The result is =       6656  True  for          59
+
+--------------------------
+Expected value is =      45568, The result is =       6656  True  for          60
+
+--------------------------
+Expected value is =      53504, The result is =      41472  True  for          61
+
+--------------------------
+Expected value is =      49920, The result is =      11008  True  for          62
+
+--------------------------
+Expected value is =      53760, The result is =       6912  True  for          63
+
+--------------------------
+Expected value is =      48384, The result is =       4352  True  for          64
+
+--------------------------
+Expected value is =      61184, The result is =       4608  True  for          65
+
+--------------------------
+Expected value is =       4352, The result is =      43776  True  for          66
+
+--------------------------
+Expected value is =       4608, The result is =      47872  True  for          67
+
+--------------------------
+Expected value is =       4864, The result is =      52480  True  for          68
+
+--------------------------
+Expected value is =      45568, The result is =       6656  True  for          69
+
+--------------------------
+Expected value is =      45568, The result is =       6656  True  for          70
+
+--------------------------
+Expected value is =      53504, The result is =      41472  True  for          71
+
+--------------------------
+Expected value is =      49920, The result is =      11008  True  for          72
+
+--------------------------
+Expected value is =      53760, The result is =       6912  True  for          73
+
+--------------------------
+Expected value is =      48384, The result is =       4352  True  for          74
+
+--------------------------
+Expected value is =      61184, The result is =       4608  True  for          75
+
+--------------------------
+Expected value is =       4352, The result is =      43776  True  for          76
+
+--------------------------
+Expected value is =       4608, The result is =      47872  True  for          77
+
+--------------------------
+Expected value is =       4864, The result is =      52480  True  for          78
+
+--------------------------
+Expected value is =      45568, The result is =       6656  True  for          79
+
+--------------------------
+Expected value is =      45568, The result is =       6656  True  for          80
+
+--------------------------
+Expected value is =      53504, The result is =      41472  True  for          81
+
+--------------------------
+Expected value is =      49920, The result is =      11008  True  for          82
+
+--------------------------
+Expected value is =      53760, The result is =       6912  True  for          83
+
+--------------------------
+Expected value is =      48384, The result is =       4352  True  for          84
+
+--------------------------
+Expected value is =      61184, The result is =       4608  True  for          85
+
+--------------------------
+Expected value is =       4352, The result is =      43776  True  for          86
+
+--------------------------
+Expected value is =       4608, The result is =      47872  True  for          87
+
+--------------------------
+Expected value is =       4864, The result is =      52480  True  for          88
+
+--------------------------
+Expected value is =      45568, The result is =       6656  True  for          89
+
+--------------------------
+Expected value is =      45568, The result is =       6656  True  for          90
+
+--------------------------
+Expected value is =      53504, The result is =      41472  True  for          91
+
+--------------------------
+Expected value is =      49920, The result is =      11008  True  for          92
+
+--------------------------
+Expected value is =      53760, The result is =       6912  True  for          93
+
+--------------------------
+Expected value is =      48384, The result is =       4352  True  for          94
+
+--------------------------
+Expected value is =      61184, The result is =       4608  True  for          95
+
+--------------------------
+Expected value is =       4352, The result is =      43776  True  for          96
+
+--------------------------
+Expected value is =       4608, The result is =      47872  True  for          97
+
+--------------------------
+Expected value is =       4864, The result is =      52480  True  for          98
+
+--------------------------
+Expected value is =      45568, The result is =       6656  True  for          99
+
+--------------------------
+Expected value is =      45568, The result is =       6656  True  for         100
+
+--------------------------
+Expected value is =      53504, The result is =      41472  True  for         101
+
+--------------------------
+Expected value is =      49920, The result is =      11008  True  for         102
+
+--------------------------
+Expected value is =      53760, The result is =       6912  True  for         103
+
+--------------------------
+Expected value is =      48384, The result is =       4352  True  for         104
+
+--------------------------
+Expected value is =      61184, The result is =       4608  True  for         105
+
+--------------------------
+Expected value is =       4352, The result is =      43776  True  for         106
+
+--------------------------
+Expected value is =       4608, The result is =      47872  True  for         107
+
+--------------------------
+Expected value is =       4864, The result is =      52480  True  for         108
+
+--------------------------
+Expected value is =      45568, The result is =       6656  True  for         109
+
+--------------------------
+Expected value is =      45568, The result is =       6656  True  for         110
+
+--------------------------
+Expected value is =       4352, The result is =      11520  True  for         111
+
+--------------------------
+Expected value is =      49920, The result is =      11008  True  for         112
+
+--------------------------
+Expected value is =      53760, The result is =       6912  True  for         113
+
+--------------------------
+Expected value is =      48384, The result is =       4352  True  for         114
+
+--------------------------
+Expected value is =      61184, The result is =       4608  True  for         115
+
+--------------------------
+Expected value is =       4352, The result is =      43776  True  for         116
+
+--------------------------
+Expected value is =       4608, The result is =      47872  True  for         117
+
+--------------------------
+Expected value is =       4864, The result is =      52480  True  for         118
+
+--------------------------
+Expected value is =      45568, The result is =       6656  True  for         119
+
+--------------------------
+Expected value is =      45568, The result is =       6656  True  for         120
+
+--------------------------
+Expected value is =       4352, The result is =      11520  True  for         121
+
+--------------------------
+Expected value is =      49920, The result is =      11008  True  for         122
+
+--------------------------
+Expected value is =      53760, The result is =       6912  True  for         123
+
+--------------------------
+Expected value is =      48384, The result is =       4352  True  for         124
+
+--------------------------
+Expected value is =      61184, The result is =       4608  True  for         125
+
+--------------------------
+Expected value is =       4352, The result is =      43776  True  for         126
+
+--------------------------
+Expected value is =       4608, The result is =      47872  True  for         127
+
+--------------------------
+  STRB = 0100 
+
+Expected value is =   11665408, The result is =   11665408  True  for           0
+
+--------------------------
+Expected value is =   12779520, The result is =   12779520  True  for           1
+
+--------------------------
+Expected value is =   13762560, The result is =   13762560  True  for           2
+
+--------------------------
+Expected value is =   12386304, The result is =   12386304  True  for           3
+
+--------------------------
+Expected value is =   15663104, The result is =   15663104  True  for           4
+
+--------------------------
+Expected value is =    1114112, The result is =    1114112  True  for           5
+
+--------------------------
+Expected value is =    1179648, The result is =    1179648  True  for           6
+
+--------------------------
+Expected value is =    1245184, The result is =    1245184  True  for           7
+
+--------------------------
+Expected value is =   11665408, The result is =   11665408  True  for           8
+
+--------------------------
+Expected value is =   12779520, The result is =   12779520  True  for           9
+
+--------------------------
+Expected value is =   12845056, The result is =   12845056  True  for          10
+
+--------------------------
+Expected value is =   11665408, The result is =   11665408  True  for          11
+
+--------------------------
+Expected value is =   12779520, The result is =   12779520  True  for          12
+
+--------------------------
+Expected value is =   13762560, The result is =   13762560  True  for          13
+
+--------------------------
+Expected value is =   12386304, The result is =   12386304  True  for          14
+
+--------------------------
+Expected value is =   15663104, The result is =   15663104  True  for          15
+
+--------------------------
+Expected value is =    1114112, The result is =    1114112  True  for          16
+
+--------------------------
+Expected value is =    1179648, The result is =    1179648  True  for          17
+
+--------------------------
+Expected value is =    1245184, The result is =    1245184  True  for          18
+
+--------------------------
+Expected value is =   11665408, The result is =   11665408  True  for          19
+
+--------------------------
+Expected value is =   12779520, The result is =   12779520  True  for          20
+
+--------------------------
+Expected value is =   12845056, The result is =   12845056  True  for          21
+
+--------------------------
+Expected value is =   12779520, The result is =   12779520  True  for          22
+
+--------------------------
+Expected value is =   13762560, The result is =   13762560  True  for          23
+
+--------------------------
+Expected value is =   12386304, The result is =   12386304  True  for          24
+
+--------------------------
+Expected value is =   15663104, The result is =   15663104  True  for          25
+
+--------------------------
+Expected value is =    1114112, The result is =    1114112  True  for          26
+
+--------------------------
+Expected value is =    1179648, The result is =    1179648  True  for          27
+
+--------------------------
+Expected value is =    1245184, The result is =    1245184  True  for          28
+
+--------------------------
+Expected value is =   11665408, The result is =   11665408  True  for          29
+
+--------------------------
+Expected value is =   12779520, The result is =   12779520  True  for          30
+
+--------------------------
+Expected value is =   12845056, The result is =   12845056  True  for          31
+
+--------------------------
+Expected value is =   12779520, The result is =   12779520  True  for          32
+
+--------------------------
+Expected value is =   13762560, The result is =   13762560  True  for          33
+
+--------------------------
+Expected value is =   12386304, The result is =   12386304  True  for          34
+
+--------------------------
+Expected value is =   15663104, The result is =   15663104  True  for          35
+
+--------------------------
+Expected value is =    1114112, The result is =    1114112  True  for          36
+
+--------------------------
+Expected value is =    1179648, The result is =    1179648  True  for          37
+
+--------------------------
+Expected value is =    1245184, The result is =    1245184  True  for          38
+
+--------------------------
+Expected value is =   11665408, The result is =   11665408  True  for          39
+
+--------------------------
+Expected value is =   12779520, The result is =   12779520  True  for          40
+
+--------------------------
+Expected value is =   12845056, The result is =   12845056  True  for          41
+
+--------------------------
+Expected value is =   12779520, The result is =   12779520  True  for          42
+
+--------------------------
+Expected value is =   13762560, The result is =   13762560  True  for          43
+
+--------------------------
+Expected value is =   12386304, The result is =   12386304  True  for          44
+
+--------------------------
+Expected value is =   15663104, The result is =   15663104  True  for          45
+
+--------------------------
+Expected value is =    1114112, The result is =    1114112  True  for          46
+
+--------------------------
+Expected value is =    1179648, The result is =    1179648  True  for          47
+
+--------------------------
+Expected value is =    1245184, The result is =    1245184  True  for          48
+
+--------------------------
+Expected value is =   11665408, The result is =   11665408  True  for          49
+
+--------------------------
+Expected value is =   12779520, The result is =   12779520  True  for          50
+
+--------------------------
+Expected value is =   12845056, The result is =   12845056  True  for          51
+
+--------------------------
+Expected value is =   12779520, The result is =   12779520  True  for          52
+
+--------------------------
+Expected value is =   13762560, The result is =   13762560  True  for          53
+
+--------------------------
+Expected value is =   12386304, The result is =   12386304  True  for          54
+
+--------------------------
+Expected value is =   15663104, The result is =   15663104  True  for          55
+
+--------------------------
+Expected value is =    1114112, The result is =    1114112  True  for          56
+
+--------------------------
+Expected value is =    1179648, The result is =    1179648  True  for          57
+
+--------------------------
+Expected value is =    1245184, The result is =    1245184  True  for          58
+
+--------------------------
+Expected value is =   11665408, The result is =   11665408  True  for          59
+
+--------------------------
+Expected value is =   12779520, The result is =   12779520  True  for          60
+
+--------------------------
+Expected value is =   12845056, The result is =   12845056  True  for          61
+
+--------------------------
+Expected value is =   12779520, The result is =   12779520  True  for          62
+
+--------------------------
+Expected value is =   13762560, The result is =   13762560  True  for          63
+
+--------------------------
+Expected value is =   12386304, The result is =   12386304  True  for          64
+
+--------------------------
+Expected value is =   15663104, The result is =   15663104  True  for          65
+
+--------------------------
+Expected value is =    1114112, The result is =    1114112  True  for          66
+
+--------------------------
+Expected value is =    1179648, The result is =    1179648  True  for          67
+
+--------------------------
+Expected value is =    1245184, The result is =    1245184  True  for          68
+
+--------------------------
+Expected value is =   11665408, The result is =   11665408  True  for          69
+
+--------------------------
+Expected value is =   12779520, The result is =   12779520  True  for          70
+
+--------------------------
+Expected value is =   12845056, The result is =   12845056  True  for          71
+
+--------------------------
+Expected value is =   12779520, The result is =   12779520  True  for          72
+
+--------------------------
+Expected value is =   13762560, The result is =   13762560  True  for          73
+
+--------------------------
+Expected value is =   12386304, The result is =   12386304  True  for          74
+
+--------------------------
+Expected value is =   15663104, The result is =   15663104  True  for          75
+
+--------------------------
+Expected value is =    1114112, The result is =    1114112  True  for          76
+
+--------------------------
+Expected value is =    1179648, The result is =    1179648  True  for          77
+
+--------------------------
+Expected value is =    1245184, The result is =    1245184  True  for          78
+
+--------------------------
+Expected value is =   11665408, The result is =   11665408  True  for          79
+
+--------------------------
+Expected value is =   12779520, The result is =   12779520  True  for          80
+
+--------------------------
+Expected value is =   12845056, The result is =   12845056  True  for          81
+
+--------------------------
+Expected value is =   12779520, The result is =   12779520  True  for          82
+
+--------------------------
+Expected value is =   13762560, The result is =   13762560  True  for          83
+
+--------------------------
+Expected value is =   12386304, The result is =   12386304  True  for          84
+
+--------------------------
+Expected value is =   15663104, The result is =   15663104  True  for          85
+
+--------------------------
+Expected value is =    1114112, The result is =    1114112  True  for          86
+
+--------------------------
+Expected value is =    1179648, The result is =    1179648  True  for          87
+
+--------------------------
+Expected value is =    1245184, The result is =    1245184  True  for          88
+
+--------------------------
+Expected value is =   11665408, The result is =   11665408  True  for          89
+
+--------------------------
+Expected value is =   12779520, The result is =   12779520  True  for          90
+
+--------------------------
+Expected value is =   12845056, The result is =   12845056  True  for          91
+
+--------------------------
+Expected value is =   12779520, The result is =   12779520  True  for          92
+
+--------------------------
+Expected value is =   13762560, The result is =   13762560  True  for          93
+
+--------------------------
+Expected value is =   12386304, The result is =   12386304  True  for          94
+
+--------------------------
+Expected value is =   15663104, The result is =   15663104  True  for          95
+
+--------------------------
+Expected value is =    1114112, The result is =    1114112  True  for          96
+
+--------------------------
+Expected value is =    1179648, The result is =    1179648  True  for          97
+
+--------------------------
+Expected value is =    1245184, The result is =    1245184  True  for          98
+
+--------------------------
+Expected value is =   11665408, The result is =   11665408  True  for          99
+
+--------------------------
+Expected value is =   12779520, The result is =   12779520  True  for         100
+
+--------------------------
+Expected value is =   12845056, The result is =   12845056  True  for         101
+
+--------------------------
+Expected value is =   12779520, The result is =   12779520  True  for         102
+
+--------------------------
+Expected value is =   13762560, The result is =   13762560  True  for         103
+
+--------------------------
+Expected value is =   12386304, The result is =   12386304  True  for         104
+
+--------------------------
+Expected value is =   15663104, The result is =   15663104  True  for         105
+
+--------------------------
+Expected value is =    1114112, The result is =    1114112  True  for         106
+
+--------------------------
+Expected value is =    1179648, The result is =    1179648  True  for         107
+
+--------------------------
+Expected value is =    1245184, The result is =    1245184  True  for         108
+
+--------------------------
+Expected value is =   11665408, The result is =   11665408  True  for         109
+
+--------------------------
+Expected value is =   12779520, The result is =   12779520  True  for         110
+
+--------------------------
+Expected value is =    4849664, The result is =    4849664  True  for         111
+
+--------------------------
+Expected value is =   12779520, The result is =   12779520  True  for         112
+
+--------------------------
+Expected value is =   13762560, The result is =   13762560  True  for         113
+
+--------------------------
+Expected value is =   12386304, The result is =   12386304  True  for         114
+
+--------------------------
+Expected value is =   15663104, The result is =   15663104  True  for         115
+
+--------------------------
+Expected value is =    1114112, The result is =    1114112  True  for         116
+
+--------------------------
+Expected value is =    1179648, The result is =    1179648  True  for         117
+
+--------------------------
+Expected value is =    1245184, The result is =    1245184  True  for         118
+
+--------------------------
+Expected value is =   11665408, The result is =   11665408  True  for         119
+
+--------------------------
+Expected value is =   12779520, The result is =   12779520  True  for         120
+
+--------------------------
+Expected value is =    4849664, The result is =    4849664  True  for         121
+
+--------------------------
+Expected value is =   12779520, The result is =   12779520  True  for         122
+
+--------------------------
+Expected value is =   13762560, The result is =   13762560  True  for         123
+
+--------------------------
+Expected value is =   12386304, The result is =   12386304  True  for         124
+
+--------------------------
+Expected value is =   15663104, The result is =   15663104  True  for         125
+
+--------------------------
+Expected value is =    1114112, The result is =    1114112  True  for         126
+
+--------------------------
+Expected value is =    1179648, The result is =    1179648  True  for         127
+
+--------------------------
+STRB = 1000 
+
+Expected value is =  436207616, The result is =  436207616  True  for           0
+
+--------------------------
+Expected value is =  721420288, The result is =  721420288  True  for           1
+
+--------------------------
+Expected value is =  452984832, The result is =  452984832  True  for           2
+
+--------------------------
+Expected value is =  285212672, The result is =  285212672  True  for           3
+
+--------------------------
+Expected value is =  301989888, The result is =  301989888  True  for           4
+
+--------------------------
+Expected value is = 2868903936, The result is = 2868903936  True  for           5
+
+--------------------------
+Expected value is = 3137339392, The result is = 3137339392  True  for           6
+
+--------------------------
+Expected value is = 3439329280, The result is = 3439329280  True  for           7
+
+--------------------------
+Expected value is =  436207616, The result is =  436207616  True  for           8
+
+--------------------------
+Expected value is =  721420288, The result is =  721420288  True  for           9
+
+--------------------------
+Expected value is = 3003121664, The result is = 3003121664  True  for          10
+
+--------------------------
+Expected value is =  436207616, The result is =  436207616  True  for          11
+
+--------------------------
+Expected value is =  721420288, The result is =  721420288  True  for          12
+
+--------------------------
+Expected value is =  452984832, The result is =  452984832  True  for          13
+
+--------------------------
+Expected value is =  285212672, The result is =  285212672  True  for          14
+
+--------------------------
+Expected value is =  301989888, The result is =  301989888  True  for          15
+
+--------------------------
+Expected value is = 2868903936, The result is = 2868903936  True  for          16
+
+--------------------------
+Expected value is = 3137339392, The result is = 3137339392  True  for          17
+
+--------------------------
+Expected value is = 3439329280, The result is = 3439329280  True  for          18
+
+--------------------------
+Expected value is =  436207616, The result is =  436207616  True  for          19
+
+--------------------------
+Expected value is =  721420288, The result is =  721420288  True  for          20
+
+--------------------------
+Expected value is = 3003121664, The result is = 3003121664  True  for          21
+
+--------------------------
+Expected value is =  721420288, The result is =  721420288  True  for          22
+
+--------------------------
+Expected value is =  452984832, The result is =  452984832  True  for          23
+
+--------------------------
+Expected value is =  285212672, The result is =  285212672  True  for          24
+
+--------------------------
+Expected value is =  301989888, The result is =  301989888  True  for          25
+
+--------------------------
+Expected value is = 2868903936, The result is = 2868903936  True  for          26
+
+--------------------------
+Expected value is = 3137339392, The result is = 3137339392  True  for          27
+
+--------------------------
+Expected value is = 3439329280, The result is = 3439329280  True  for          28
+
+--------------------------
+Expected value is =  436207616, The result is =  436207616  True  for          29
+
+--------------------------
+Expected value is =  721420288, The result is =  721420288  True  for          30
+
+--------------------------
+Expected value is = 3003121664, The result is = 3003121664  True  for          31
+
+--------------------------
+Expected value is =  721420288, The result is =  721420288  True  for          32
+
+--------------------------
+Expected value is =  452984832, The result is =  452984832  True  for          33
+
+--------------------------
+Expected value is =  285212672, The result is =  285212672  True  for          34
+
+--------------------------
+Expected value is =  301989888, The result is =  301989888  True  for          35
+
+--------------------------
+Expected value is = 2868903936, The result is = 2868903936  True  for          36
+
+--------------------------
+Expected value is = 3137339392, The result is = 3137339392  True  for          37
+
+--------------------------
+Expected value is = 3439329280, The result is = 3439329280  True  for          38
+
+--------------------------
+Expected value is =  436207616, The result is =  436207616  True  for          39
+
+--------------------------
+Expected value is =  721420288, The result is =  721420288  True  for          40
+
+--------------------------
+Expected value is = 3003121664, The result is = 3003121664  True  for          41
+
+--------------------------
+Expected value is =  721420288, The result is =  721420288  True  for          42
+
+--------------------------
+Expected value is =  452984832, The result is =  452984832  True  for          43
+
+--------------------------
+Expected value is =  285212672, The result is =  285212672  True  for          44
+
+--------------------------
+Expected value is =  301989888, The result is =  301989888  True  for          45
+
+--------------------------
+Expected value is = 2868903936, The result is = 2868903936  True  for          46
+
+--------------------------
+Expected value is = 3137339392, The result is = 3137339392  True  for          47
+
+--------------------------
+Expected value is = 3439329280, The result is = 3439329280  True  for          48
+
+--------------------------
+Expected value is =  436207616, The result is =  436207616  True  for          49
+
+--------------------------
+Expected value is =  721420288, The result is =  721420288  True  for          50
+
+--------------------------
+Expected value is = 3003121664, The result is = 3003121664  True  for          51
+
+--------------------------
+Expected value is =  721420288, The result is =  721420288  True  for          52
+
+--------------------------
+Expected value is =  452984832, The result is =  452984832  True  for          53
+
+--------------------------
+Expected value is =  285212672, The result is =  285212672  True  for          54
+
+--------------------------
+Expected value is =  301989888, The result is =  301989888  True  for          55
+
+--------------------------
+Expected value is = 2868903936, The result is = 2868903936  True  for          56
+
+--------------------------
+Expected value is = 3137339392, The result is = 3137339392  True  for          57
+
+--------------------------
+Expected value is = 3439329280, The result is = 3439329280  True  for          58
+
+--------------------------
+Expected value is =  436207616, The result is =  436207616  True  for          59
+
+--------------------------
+Expected value is =  721420288, The result is =  721420288  True  for          60
+
+--------------------------
+Expected value is = 3003121664, The result is = 3003121664  True  for          61
+
+--------------------------
+Expected value is =  721420288, The result is =  721420288  True  for          62
+
+--------------------------
+Expected value is =  452984832, The result is =  452984832  True  for          63
+
+--------------------------
+Expected value is =  285212672, The result is =  285212672  True  for          64
+
+--------------------------
+Expected value is =  301989888, The result is =  301989888  True  for          65
+
+--------------------------
+Expected value is = 2868903936, The result is = 2868903936  True  for          66
+
+--------------------------
+Expected value is = 3137339392, The result is = 3137339392  True  for          67
+
+--------------------------
+Expected value is = 3439329280, The result is = 3439329280  True  for          68
+
+--------------------------
+Expected value is =  436207616, The result is =  436207616  True  for          69
+
+--------------------------
+Expected value is =  721420288, The result is =  721420288  True  for          70
+
+--------------------------
+Expected value is = 3003121664, The result is = 3003121664  True  for          71
+
+--------------------------
+Expected value is =  721420288, The result is =  721420288  True  for          72
+
+--------------------------
+Expected value is =  452984832, The result is =  452984832  True  for          73
+
+--------------------------
+Expected value is =  285212672, The result is =  285212672  True  for          74
+
+--------------------------
+Expected value is =  301989888, The result is =  301989888  True  for          75
+
+--------------------------
+Expected value is = 2868903936, The result is = 2868903936  True  for          76
+
+--------------------------
+Expected value is = 3137339392, The result is = 3137339392  True  for          77
+
+--------------------------
+Expected value is = 3439329280, The result is = 3439329280  True  for          78
+
+--------------------------
+Expected value is =  436207616, The result is =  436207616  True  for          79
+
+--------------------------
+Expected value is =  721420288, The result is =  721420288  True  for          80
+
+--------------------------
+Expected value is = 3003121664, The result is = 3003121664  True  for          81
+
+--------------------------
+Expected value is =  721420288, The result is =  721420288  True  for          82
+
+--------------------------
+Expected value is =  452984832, The result is =  452984832  True  for          83
+
+--------------------------
+Expected value is =  285212672, The result is =  285212672  True  for          84
+
+--------------------------
+Expected value is =  301989888, The result is =  301989888  True  for          85
+
+--------------------------
+Expected value is = 2868903936, The result is = 2868903936  True  for          86
+
+--------------------------
+Expected value is = 3137339392, The result is = 3137339392  True  for          87
+
+--------------------------
+Expected value is = 3439329280, The result is = 3439329280  True  for          88
+
+--------------------------
+Expected value is =  436207616, The result is =  436207616  True  for          89
+
+--------------------------
+Expected value is =  721420288, The result is =  721420288  True  for          90
+
+--------------------------
+Expected value is = 3003121664, The result is = 3003121664  True  for          91
+
+--------------------------
+Expected value is =  721420288, The result is =  721420288  True  for          92
+
+--------------------------
+Expected value is =  452984832, The result is =  452984832  True  for          93
+
+--------------------------
+Expected value is =  285212672, The result is =  285212672  True  for          94
+
+--------------------------
+Expected value is =  301989888, The result is =  301989888  True  for          95
+
+--------------------------
+Expected value is = 2868903936, The result is = 2868903936  True  for          96
+
+--------------------------
+Expected value is = 3137339392, The result is = 3137339392  True  for          97
+
+--------------------------
+Expected value is = 3439329280, The result is = 3439329280  True  for          98
+
+--------------------------
+Expected value is =  436207616, The result is =  436207616  True  for          99
+
+--------------------------
+Expected value is =  721420288, The result is =  721420288  True  for         100
+
+--------------------------
+Expected value is = 3003121664, The result is = 3003121664  True  for         101
+
+--------------------------
+Expected value is =  721420288, The result is =  721420288  True  for         102
+
+--------------------------
+Expected value is =  452984832, The result is =  452984832  True  for         103
+
+--------------------------
+Expected value is =  285212672, The result is =  285212672  True  for         104
+
+--------------------------
+Expected value is =  301989888, The result is =  301989888  True  for         105
+
+--------------------------
+Expected value is = 2868903936, The result is = 2868903936  True  for         106
+
+--------------------------
+Expected value is = 3137339392, The result is = 3137339392  True  for         107
+
+--------------------------
+Expected value is = 3439329280, The result is = 3439329280  True  for         108
+
+--------------------------
+Expected value is =  436207616, The result is =  436207616  True  for         109
+
+--------------------------
+Expected value is =  721420288, The result is =  721420288  True  for         110
+
+--------------------------
+Expected value is = 1006632960, The result is = 1006632960  True  for         111
+
+--------------------------
+Expected value is =  721420288, The result is =  721420288  True  for         112
+
+--------------------------
+Expected value is =  452984832, The result is =  452984832  True  for         113
+
+--------------------------
+Expected value is =  285212672, The result is =  285212672  True  for         114
+
+--------------------------
+Expected value is =  301989888, The result is =  301989888  True  for         115
+
+--------------------------
+Expected value is = 2868903936, The result is = 2868903936  True  for         116
+
+--------------------------
+Expected value is = 3137339392, The result is = 3137339392  True  for         117
+
+--------------------------
+Expected value is = 3439329280, The result is = 3439329280  True  for         118
+
+--------------------------
+Expected value is =  436207616, The result is =  436207616  True  for         119
+
+--------------------------
+Expected value is =  721420288, The result is =  721420288  True  for         120
+
+--------------------------
+Expected value is = 1006632960, The result is = 1006632960  True  for         121
+
+--------------------------
+Expected value is =  721420288, The result is =  721420288  True  for         122
+
+--------------------------
+Expected value is =  452984832, The result is =  452984832  True  for         123
+
+--------------------------
+Expected value is =  285212672, The result is =  285212672  True  for         124
+
+--------------------------
+Expected value is =  301989888, The result is =  301989888  True  for         125
+
+--------------------------
+Expected value is = 2868903936, The result is = 2868903936  True  for         126
+
+--------------------------
+Expected value is = 3137339392, The result is = 3137339392  True  for         127
+
+--------------------------
+STRB = 0011 
+
+Expected value is =       6834, The result is =       6834   True  for           0
+
+--------------------------
+Expected value is =      11203, The result is =      11203   True  for           1
+
+--------------------------
+Expected value is =       7122, The result is =       7122   True  for           2
+
+--------------------------
+Expected value is =       4541, The result is =       4541   True  for           3
+
+--------------------------
+Expected value is =       4847, The result is =       4847   True  for           4
+
+--------------------------
+Expected value is =      43793, The result is =      43793   True  for           5
+
+--------------------------
+Expected value is =      47890, The result is =      47890   True  for           6
+
+--------------------------
+Expected value is =      52499, The result is =      52499   True  for           7
+
+--------------------------
+Expected value is =       6834, The result is =       6834   True  for           8
+
+--------------------------
+Expected value is =       6834, The result is =       6834   True  for           9
+
+--------------------------
+Expected value is =      41681, The result is =      41681   True  for          10
+
+--------------------------
+Expected value is =       6834, The result is =       6834   True  for          11
+
+--------------------------
+Expected value is =      11203, The result is =      11203   True  for          12
+
+--------------------------
+Expected value is =       7122, The result is =       7122   True  for          13
+
+--------------------------
+Expected value is =       4541, The result is =       4541   True  for          14
+
+--------------------------
+Expected value is =       4847, The result is =       4847   True  for          15
+
+--------------------------
+Expected value is =      43793, The result is =      43793   True  for          16
+
+--------------------------
+Expected value is =      47890, The result is =      47890   True  for          17
+
+--------------------------
+Expected value is =      52499, The result is =      52499   True  for          18
+
+--------------------------
+Expected value is =       6834, The result is =       6834   True  for          19
+
+--------------------------
+Expected value is =       6834, The result is =       6834   True  for          20
+
+--------------------------
+Expected value is =      41681, The result is =      41681   True  for          21
+
+--------------------------
+Expected value is =      11203, The result is =      11203   True  for          22
+
+--------------------------
+Expected value is =       7122, The result is =       7122   True  for          23
+
+--------------------------
+Expected value is =       4541, The result is =       4541   True  for          24
+
+--------------------------
+Expected value is =       4847, The result is =       4847   True  for          25
+
+--------------------------
+Expected value is =      43793, The result is =      43793   True  for          26
+
+--------------------------
+Expected value is =      47890, The result is =      47890   True  for          27
+
+--------------------------
+Expected value is =      52499, The result is =      52499   True  for          28
+
+--------------------------
+Expected value is =       6834, The result is =       6834   True  for          29
+
+--------------------------
+Expected value is =       6834, The result is =       6834   True  for          30
+
+--------------------------
+Expected value is =      41681, The result is =      41681   True  for          31
+
+--------------------------
+Expected value is =      11203, The result is =      11203   True  for          32
+
+--------------------------
+Expected value is =       7122, The result is =       7122   True  for          33
+
+--------------------------
+Expected value is =       4541, The result is =       4541   True  for          34
+
+--------------------------
+Expected value is =       4847, The result is =       4847   True  for          35
+
+--------------------------
+Expected value is =      43793, The result is =      43793   True  for          36
+
+--------------------------
+Expected value is =      47890, The result is =      47890   True  for          37
+
+--------------------------
+Expected value is =      52499, The result is =      52499   True  for          38
+
+--------------------------
+Expected value is =       6834, The result is =       6834   True  for          39
+
+--------------------------
+Expected value is =       6834, The result is =       6834   True  for          40
+
+--------------------------
+Expected value is =      41681, The result is =      41681   True  for          41
+
+--------------------------
+Expected value is =      11203, The result is =      11203   True  for          42
+
+--------------------------
+Expected value is =       7122, The result is =       7122   True  for          43
+
+--------------------------
+Expected value is =       4541, The result is =       4541   True  for          44
+
+--------------------------
+Expected value is =       4847, The result is =       4847   True  for          45
+
+--------------------------
+Expected value is =      43793, The result is =      43793   True  for          46
+
+--------------------------
+Expected value is =      47890, The result is =      47890   True  for          47
+
+--------------------------
+Expected value is =      52499, The result is =      52499   True  for          48
+
+--------------------------
+Expected value is =       6834, The result is =       6834   True  for          49
+
+--------------------------
+Expected value is =       6834, The result is =       6834   True  for          50
+
+--------------------------
+Expected value is =      41681, The result is =      41681   True  for          51
+
+--------------------------
+Expected value is =      11203, The result is =      11203   True  for          52
+
+--------------------------
+Expected value is =       7122, The result is =       7122   True  for          53
+
+--------------------------
+Expected value is =       4541, The result is =       4541   True  for          54
+
+--------------------------
+Expected value is =       4847, The result is =       4847   True  for          55
+
+--------------------------
+Expected value is =      43793, The result is =      43793   True  for          56
+
+--------------------------
+Expected value is =      47890, The result is =      47890   True  for          57
+
+--------------------------
+Expected value is =      52499, The result is =      52499   True  for          58
+
+--------------------------
+Expected value is =       6834, The result is =       6834   True  for          59
+
+--------------------------
+Expected value is =       6834, The result is =       6834   True  for          60
+
+--------------------------
+Expected value is =      41681, The result is =      41681   True  for          61
+
+--------------------------
+Expected value is =      11203, The result is =      11203   True  for          62
+
+--------------------------
+Expected value is =       7122, The result is =       7122   True  for          63
+
+--------------------------
+Expected value is =       4541, The result is =       4541   True  for          64
+
+--------------------------
+Expected value is =       4847, The result is =       4847   True  for          65
+
+--------------------------
+Expected value is =      43793, The result is =      43793   True  for          66
+
+--------------------------
+Expected value is =      47890, The result is =      47890   True  for          67
+
+--------------------------
+Expected value is =      52499, The result is =      52499   True  for          68
+
+--------------------------
+Expected value is =       6834, The result is =       6834   True  for          69
+
+--------------------------
+Expected value is =       6834, The result is =       6834   True  for          70
+
+--------------------------
+Expected value is =      41681, The result is =      41681   True  for          71
+
+--------------------------
+Expected value is =      11203, The result is =      11203   True  for          72
+
+--------------------------
+Expected value is =       7122, The result is =       7122   True  for          73
+
+--------------------------
+Expected value is =       4541, The result is =       4541   True  for          74
+
+--------------------------
+Expected value is =       4847, The result is =       4847   True  for          75
+
+--------------------------
+Expected value is =      43793, The result is =      43793   True  for          76
+
+--------------------------
+Expected value is =      47890, The result is =      47890   True  for          77
+
+--------------------------
+Expected value is =      52499, The result is =      52499   True  for          78
+
+--------------------------
+Expected value is =       6834, The result is =       6834   True  for          79
+
+--------------------------
+Expected value is =       6834, The result is =       6834   True  for          80
+
+--------------------------
+Expected value is =      41681, The result is =      41681   True  for          81
+
+--------------------------
+Expected value is =      11203, The result is =      11203   True  for          82
+
+--------------------------
+Expected value is =       7122, The result is =       7122   True  for          83
+
+--------------------------
+Expected value is =       4541, The result is =       4541   True  for          84
+
+--------------------------
+Expected value is =       4847, The result is =       4847   True  for          85
+
+--------------------------
+Expected value is =      43793, The result is =      43793   True  for          86
+
+--------------------------
+Expected value is =      47890, The result is =      47890   True  for          87
+
+--------------------------
+Expected value is =      52499, The result is =      52499   True  for          88
+
+--------------------------
+Expected value is =       6834, The result is =       6834   True  for          89
+
+--------------------------
+Expected value is =       6834, The result is =       6834   True  for          90
+
+--------------------------
+Expected value is =      41681, The result is =      41681   True  for          91
+
+--------------------------
+Expected value is =      11203, The result is =      11203   True  for          92
+
+--------------------------
+Expected value is =       7122, The result is =       7122   True  for          93
+
+--------------------------
+Expected value is =       4541, The result is =       4541   True  for          94
+
+--------------------------
+Expected value is =       4847, The result is =       4847   True  for          95
+
+--------------------------
+Expected value is =      43793, The result is =      43793   True  for          96
+
+--------------------------
+Expected value is =      47890, The result is =      47890   True  for          97
+
+--------------------------
+Expected value is =      52499, The result is =      52499   True  for          98
+
+--------------------------
+Expected value is =       6834, The result is =       6834   True  for          99
+
+--------------------------
+Expected value is =       6834, The result is =       6834   True  for         100
+
+--------------------------
+Expected value is =      41681, The result is =      41681   True  for         101
+
+--------------------------
+Expected value is =      11203, The result is =      11203   True  for         102
+
+--------------------------
+Expected value is =       7122, The result is =       7122   True  for         103
+
+--------------------------
+Expected value is =       4541, The result is =       4541   True  for         104
+
+--------------------------
+Expected value is =       4847, The result is =       4847   True  for         105
+
+--------------------------
+Expected value is =      43793, The result is =      43793   True  for         106
+
+--------------------------
+Expected value is =      47890, The result is =      47890   True  for         107
+
+--------------------------
+Expected value is =      52499, The result is =      52499   True  for         108
+
+--------------------------
+Expected value is =       6834, The result is =       6834   True  for         109
+
+--------------------------
+Expected value is =       6834, The result is =       6834   True  for         110
+
+--------------------------
+Expected value is =      11537, The result is =      11537   True  for         111
+
+--------------------------
+Expected value is =      11203, The result is =      11203   True  for         112
+
+--------------------------
+Expected value is =       7122, The result is =       7122   True  for         113
+
+--------------------------
+Expected value is =       4541, The result is =       4541   True  for         114
+
+--------------------------
+Expected value is =       4847, The result is =       4847   True  for         115
+
+--------------------------
+Expected value is =      43793, The result is =      43793   True  for         116
+
+--------------------------
+Expected value is =      47890, The result is =      47890   True  for         117
+
+--------------------------
+Expected value is =      52499, The result is =      52499   True  for         118
+
+--------------------------
+Expected value is =       6834, The result is =       6834   True  for         119
+
+--------------------------
+Expected value is =       6834, The result is =       6834   True  for         120
+
+--------------------------
+Expected value is =      11537, The result is =      11537   True  for         121
+
+--------------------------
+Expected value is =      11203, The result is =      11203   True  for         122
+
+--------------------------
+Expected value is =       7122, The result is =       7122   True  for         123
+
+--------------------------
+Expected value is =       4541, The result is =       4541   True  for         124
+
+--------------------------
+Expected value is =       4847, The result is =       4847   True  for         125
+
+--------------------------
+Expected value is =      43793, The result is =      43793   True  for         126
+
+--------------------------
+Expected value is =      47890, The result is =      47890   True  for         127
+
+--------------------------
+STRB = 0011 
+
+Expected value is =       6834, The result is =       6834   True  for           0
+
+--------------------------
+Expected value is =      11203, The result is =      11203   True  for           1
+
+--------------------------
+Expected value is =       7122, The result is =       7122   True  for           2
+
+--------------------------
+Expected value is =       4541, The result is =       4541   True  for           3
+
+--------------------------
+Expected value is =       4847, The result is =       4847   True  for           4
+
+--------------------------
+Expected value is =      43793, The result is =      43793   True  for           5
+
+--------------------------
+Expected value is =      47890, The result is =      47890   True  for           6
+
+--------------------------
+Expected value is =      52499, The result is =      52499   True  for           7
+
+--------------------------
+Expected value is =       6834, The result is =       6834   True  for           8
+
+--------------------------
+Expected value is =       6834, The result is =       6834   True  for           9
+
+--------------------------
+Expected value is =      41681, The result is =      41681   True  for          10
+
+--------------------------
+Expected value is =       6834, The result is =       6834   True  for          11
+
+--------------------------
+Expected value is =      11203, The result is =      11203   True  for          12
+
+--------------------------
+Expected value is =       7122, The result is =       7122   True  for          13
+
+--------------------------
+Expected value is =       4541, The result is =       4541   True  for          14
+
+--------------------------
+Expected value is =       4847, The result is =       4847   True  for          15
+
+--------------------------
+Expected value is =      43793, The result is =      43793   True  for          16
+
+--------------------------
+Expected value is =      47890, The result is =      47890   True  for          17
+
+--------------------------
+Expected value is =      52499, The result is =      52499   True  for          18
+
+--------------------------
+Expected value is =       6834, The result is =       6834   True  for          19
+
+--------------------------
+Expected value is =       6834, The result is =       6834   True  for          20
+
+--------------------------
+Expected value is =      41681, The result is =      41681   True  for          21
+
+--------------------------
+Expected value is =      11203, The result is =      11203   True  for          22
+
+--------------------------
+Expected value is =       7122, The result is =       7122   True  for          23
+
+--------------------------
+Expected value is =       4541, The result is =       4541   True  for          24
+
+--------------------------
+Expected value is =       4847, The result is =       4847   True  for          25
+
+--------------------------
+Expected value is =      43793, The result is =      43793   True  for          26
+
+--------------------------
+Expected value is =      47890, The result is =      47890   True  for          27
+
+--------------------------
+Expected value is =      52499, The result is =      52499   True  for          28
+
+--------------------------
+Expected value is =       6834, The result is =       6834   True  for          29
+
+--------------------------
+Expected value is =       6834, The result is =       6834   True  for          30
+
+--------------------------
+Expected value is =      41681, The result is =      41681   True  for          31
+
+--------------------------
+Expected value is =      11203, The result is =      11203   True  for          32
+
+--------------------------
+Expected value is =       7122, The result is =       7122   True  for          33
+
+--------------------------
+Expected value is =       4541, The result is =       4541   True  for          34
+
+--------------------------
+Expected value is =       4847, The result is =       4847   True  for          35
+
+--------------------------
+Expected value is =      43793, The result is =      43793   True  for          36
+
+--------------------------
+Expected value is =      47890, The result is =      47890   True  for          37
+
+--------------------------
+Expected value is =      52499, The result is =      52499   True  for          38
+
+--------------------------
+Expected value is =       6834, The result is =       6834   True  for          39
+
+--------------------------
+Expected value is =       6834, The result is =       6834   True  for          40
+
+--------------------------
+Expected value is =      41681, The result is =      41681   True  for          41
+
+--------------------------
+Expected value is =      11203, The result is =      11203   True  for          42
+
+--------------------------
+Expected value is =       7122, The result is =       7122   True  for          43
+
+--------------------------
+Expected value is =       4541, The result is =       4541   True  for          44
+
+--------------------------
+Expected value is =       4847, The result is =       4847   True  for          45
+
+--------------------------
+Expected value is =      43793, The result is =      43793   True  for          46
+
+--------------------------
+Expected value is =      47890, The result is =      47890   True  for          47
+
+--------------------------
+Expected value is =      52499, The result is =      52499   True  for          48
+
+--------------------------
+Expected value is =       6834, The result is =       6834   True  for          49
+
+--------------------------
+Expected value is =       6834, The result is =       6834   True  for          50
+
+--------------------------
+Expected value is =      41681, The result is =      41681   True  for          51
+
+--------------------------
+Expected value is =      11203, The result is =      11203   True  for          52
+
+--------------------------
+Expected value is =       7122, The result is =       7122   True  for          53
+
+--------------------------
+Expected value is =       4541, The result is =       4541   True  for          54
+
+--------------------------
+Expected value is =       4847, The result is =       4847   True  for          55
+
+--------------------------
+Expected value is =      43793, The result is =      43793   True  for          56
+
+--------------------------
+Expected value is =      47890, The result is =      47890   True  for          57
+
+--------------------------
+Expected value is =      52499, The result is =      52499   True  for          58
+
+--------------------------
+Expected value is =       6834, The result is =       6834   True  for          59
+
+--------------------------
+Expected value is =       6834, The result is =       6834   True  for          60
+
+--------------------------
+Expected value is =      41681, The result is =      41681   True  for          61
+
+--------------------------
+Expected value is =      11203, The result is =      11203   True  for          62
+
+--------------------------
+Expected value is =       7122, The result is =       7122   True  for          63
+
+--------------------------
+Expected value is =       4541, The result is =       4541   True  for          64
+
+--------------------------
+Expected value is =       4847, The result is =       4847   True  for          65
+
+--------------------------
+Expected value is =      43793, The result is =      43793   True  for          66
+
+--------------------------
+Expected value is =      47890, The result is =      47890   True  for          67
+
+--------------------------
+Expected value is =      52499, The result is =      52499   True  for          68
+
+--------------------------
+Expected value is =       6834, The result is =       6834   True  for          69
+
+--------------------------
+Expected value is =       6834, The result is =       6834   True  for          70
+
+--------------------------
+Expected value is =      41681, The result is =      41681   True  for          71
+
+--------------------------
+Expected value is =      11203, The result is =      11203   True  for          72
+
+--------------------------
+Expected value is =       7122, The result is =       7122   True  for          73
+
+--------------------------
+Expected value is =       4541, The result is =       4541   True  for          74
+
+--------------------------
+Expected value is =       4847, The result is =       4847   True  for          75
+
+--------------------------
+Expected value is =      43793, The result is =      43793   True  for          76
+
+--------------------------
+Expected value is =      47890, The result is =      47890   True  for          77
+
+--------------------------
+Expected value is =      52499, The result is =      52499   True  for          78
+
+--------------------------
+Expected value is =       6834, The result is =       6834   True  for          79
+
+--------------------------
+Expected value is =       6834, The result is =       6834   True  for          80
+
+--------------------------
+Expected value is =      41681, The result is =      41681   True  for          81
+
+--------------------------
+Expected value is =      11203, The result is =      11203   True  for          82
+
+--------------------------
+Expected value is =       7122, The result is =       7122   True  for          83
+
+--------------------------
+Expected value is =       4541, The result is =       4541   True  for          84
+
+--------------------------
+Expected value is =       4847, The result is =       4847   True  for          85
+
+--------------------------
+Expected value is =      43793, The result is =      43793   True  for          86
+
+--------------------------
+Expected value is =      47890, The result is =      47890   True  for          87
+
+--------------------------
+Expected value is =      52499, The result is =      52499   True  for          88
+
+--------------------------
+Expected value is =       6834, The result is =       6834   True  for          89
+
+--------------------------
+Expected value is =       6834, The result is =       6834   True  for          90
+
+--------------------------
+Expected value is =      41681, The result is =      41681   True  for          91
+
+--------------------------
+Expected value is =      11203, The result is =      11203   True  for          92
+
+--------------------------
+Expected value is =       7122, The result is =       7122   True  for          93
+
+--------------------------
+Expected value is =       4541, The result is =       4541   True  for          94
+
+--------------------------
+Expected value is =       4847, The result is =       4847   True  for          95
+
+--------------------------
+Expected value is =      43793, The result is =      43793   True  for          96
+
+--------------------------
+Expected value is =      47890, The result is =      47890   True  for          97
+
+--------------------------
+Expected value is =      52499, The result is =      52499   True  for          98
+
+--------------------------
+Expected value is =       6834, The result is =       6834   True  for          99
+
+--------------------------
+Expected value is =       6834, The result is =       6834   True  for         100
+
+--------------------------
+Expected value is =      41681, The result is =      41681   True  for         101
+
+--------------------------
+Expected value is =      11203, The result is =      11203   True  for         102
+
+--------------------------
+Expected value is =       7122, The result is =       7122   True  for         103
+
+--------------------------
+Expected value is =       4541, The result is =       4541   True  for         104
+
+--------------------------
+Expected value is =       4847, The result is =       4847   True  for         105
+
+--------------------------
+Expected value is =      43793, The result is =      43793   True  for         106
+
+--------------------------
+Expected value is =      47890, The result is =      47890   True  for         107
+
+--------------------------
+Expected value is =      52499, The result is =      52499   True  for         108
+
+--------------------------
+Expected value is =       6834, The result is =       6834   True  for         109
+
+--------------------------
+Expected value is =       6834, The result is =       6834   True  for         110
+
+--------------------------
+Expected value is =      11537, The result is =      11537   True  for         111
+
+--------------------------
+Expected value is =      11203, The result is =      11203   True  for         112
+
+--------------------------
+Expected value is =       7122, The result is =       7122   True  for         113
+
+--------------------------
+Expected value is =       4541, The result is =       4541   True  for         114
+
+--------------------------
+Expected value is =       4847, The result is =       4847   True  for         115
+
+--------------------------
+Expected value is =      43793, The result is =      43793   True  for         116
+
+--------------------------
+Expected value is =      47890, The result is =      47890   True  for         117
+
+--------------------------
+Expected value is =      52499, The result is =      52499   True  for         118
+
+--------------------------
+Expected value is =       6834, The result is =       6834   True  for         119
+
+--------------------------
+Expected value is =       6834, The result is =       6834   True  for         120
+
+--------------------------
+Expected value is =      11537, The result is =      11537   True  for         121
+
+--------------------------
+Expected value is =      11203, The result is =      11203   True  for         122
+
+--------------------------
+Expected value is =       7122, The result is =       7122   True  for         123
+
+--------------------------
+Expected value is =       4541, The result is =       4541   True  for         124
+
+--------------------------
+Expected value is =       4847, The result is =       4847   True  for         125
+
+--------------------------
+Expected value is =      43793, The result is =      43793   True  for         126
+
+--------------------------
+Expected value is =      47890, The result is =      47890   True  for         127
+
+--------------------------
+STRB = 0110 
+
+Expected value is =   11672064, The result is =   11672064   True  for           0
+
+--------------------------
+Expected value is =   12790528, The result is =   12790528   True  for           1
+
+--------------------------
+Expected value is =   13769472, The result is =   13769472   True  for           2
+
+--------------------------
+Expected value is =   12390656, The result is =   12390656   True  for           3
+
+--------------------------
+Expected value is =   15667712, The result is =   15667712   True  for           4
+
+--------------------------
+Expected value is =    1157888, The result is =    1157888   True  for           5
+
+--------------------------
+Expected value is =    1227520, The result is =    1227520   True  for           6
+
+--------------------------
+Expected value is =    1297664, The result is =    1297664   True  for           7
+
+--------------------------
+Expected value is =   11672064, The result is =   11672064   True  for           8
+
+--------------------------
+Expected value is =   12786176, The result is =   12786176   True  for           9
+
+--------------------------
+Expected value is =   12886528, The result is =   12886528   True  for          10
+
+--------------------------
+Expected value is =   11672064, The result is =   11672064   True  for          11
+
+--------------------------
+Expected value is =   12790528, The result is =   12790528   True  for          12
+
+--------------------------
+Expected value is =   13769472, The result is =   13769472   True  for          13
+
+--------------------------
+Expected value is =   12390656, The result is =   12390656   True  for          14
+
+--------------------------
+Expected value is =   15667712, The result is =   15667712   True  for          15
+
+--------------------------
+Expected value is =    1157888, The result is =    1157888   True  for          16
+
+--------------------------
+Expected value is =    1227520, The result is =    1227520   True  for          17
+
+--------------------------
+Expected value is =    1297664, The result is =    1297664   True  for          18
+
+--------------------------
+Expected value is =   11672064, The result is =   11672064   True  for          19
+
+--------------------------
+Expected value is =   12786176, The result is =   12786176   True  for          20
+
+--------------------------
+Expected value is =   12886528, The result is =   12886528   True  for          21
+
+--------------------------
+Expected value is =   12790528, The result is =   12790528   True  for          22
+
+--------------------------
+Expected value is =   13769472, The result is =   13769472   True  for          23
+
+--------------------------
+Expected value is =   12390656, The result is =   12390656   True  for          24
+
+--------------------------
+Expected value is =   15667712, The result is =   15667712   True  for          25
+
+--------------------------
+Expected value is =    1157888, The result is =    1157888   True  for          26
+
+--------------------------
+Expected value is =    1227520, The result is =    1227520   True  for          27
+
+--------------------------
+Expected value is =    1297664, The result is =    1297664   True  for          28
+
+--------------------------
+Expected value is =   11672064, The result is =   11672064   True  for          29
+
+--------------------------
+Expected value is =   12786176, The result is =   12786176   True  for          30
+
+--------------------------
+Expected value is =   12886528, The result is =   12886528   True  for          31
+
+--------------------------
+Expected value is =   12790528, The result is =   12790528   True  for          32
+
+--------------------------
+Expected value is =   13769472, The result is =   13769472   True  for          33
+
+--------------------------
+Expected value is =   12390656, The result is =   12390656   True  for          34
+
+--------------------------
+Expected value is =   15667712, The result is =   15667712   True  for          35
+
+--------------------------
+Expected value is =    1157888, The result is =    1157888   True  for          36
+
+--------------------------
+Expected value is =    1227520, The result is =    1227520   True  for          37
+
+--------------------------
+Expected value is =    1297664, The result is =    1297664   True  for          38
+
+--------------------------
+Expected value is =   11672064, The result is =   11672064   True  for          39
+
+--------------------------
+Expected value is =   12786176, The result is =   12786176   True  for          40
+
+--------------------------
+Expected value is =   12886528, The result is =   12886528   True  for          41
+
+--------------------------
+Expected value is =   12790528, The result is =   12790528   True  for          42
+
+--------------------------
+Expected value is =   13769472, The result is =   13769472   True  for          43
+
+--------------------------
+Expected value is =   12390656, The result is =   12390656   True  for          44
+
+--------------------------
+Expected value is =   15667712, The result is =   15667712   True  for          45
+
+--------------------------
+Expected value is =    1157888, The result is =    1157888   True  for          46
+
+--------------------------
+Expected value is =    1227520, The result is =    1227520   True  for          47
+
+--------------------------
+Expected value is =    1297664, The result is =    1297664   True  for          48
+
+--------------------------
+Expected value is =   11672064, The result is =   11672064   True  for          49
+
+--------------------------
+Expected value is =   12786176, The result is =   12786176   True  for          50
+
+--------------------------
+Expected value is =   12886528, The result is =   12886528   True  for          51
+
+--------------------------
+Expected value is =   12790528, The result is =   12790528   True  for          52
+
+--------------------------
+Expected value is =   13769472, The result is =   13769472   True  for          53
+
+--------------------------
+Expected value is =   12390656, The result is =   12390656   True  for          54
+
+--------------------------
+Expected value is =   15667712, The result is =   15667712   True  for          55
+
+--------------------------
+Expected value is =    1157888, The result is =    1157888   True  for          56
+
+--------------------------
+Expected value is =    1227520, The result is =    1227520   True  for          57
+
+--------------------------
+Expected value is =    1297664, The result is =    1297664   True  for          58
+
+--------------------------
+Expected value is =   11672064, The result is =   11672064   True  for          59
+
+--------------------------
+Expected value is =   12786176, The result is =   12786176   True  for          60
+
+--------------------------
+Expected value is =   12886528, The result is =   12886528   True  for          61
+
+--------------------------
+Expected value is =   12790528, The result is =   12790528   True  for          62
+
+--------------------------
+Expected value is =   13769472, The result is =   13769472   True  for          63
+
+--------------------------
+Expected value is =   12390656, The result is =   12390656   True  for          64
+
+--------------------------
+Expected value is =   15667712, The result is =   15667712   True  for          65
+
+--------------------------
+Expected value is =    1157888, The result is =    1157888   True  for          66
+
+--------------------------
+Expected value is =    1227520, The result is =    1227520   True  for          67
+
+--------------------------
+Expected value is =    1297664, The result is =    1297664   True  for          68
+
+--------------------------
+Expected value is =   11672064, The result is =   11672064   True  for          69
+
+--------------------------
+Expected value is =   12786176, The result is =   12786176   True  for          70
+
+--------------------------
+Expected value is =   12886528, The result is =   12886528   True  for          71
+
+--------------------------
+Expected value is =   12790528, The result is =   12790528   True  for          72
+
+--------------------------
+Expected value is =   13769472, The result is =   13769472   True  for          73
+
+--------------------------
+Expected value is =   12390656, The result is =   12390656   True  for          74
+
+--------------------------
+Expected value is =   15667712, The result is =   15667712   True  for          75
+
+--------------------------
+Expected value is =    1157888, The result is =    1157888   True  for          76
+
+--------------------------
+Expected value is =    1227520, The result is =    1227520   True  for          77
+
+--------------------------
+Expected value is =    1297664, The result is =    1297664   True  for          78
+
+--------------------------
+Expected value is =   11672064, The result is =   11672064   True  for          79
+
+--------------------------
+Expected value is =   12786176, The result is =   12786176   True  for          80
+
+--------------------------
+Expected value is =   12886528, The result is =   12886528   True  for          81
+
+--------------------------
+Expected value is =   12790528, The result is =   12790528   True  for          82
+
+--------------------------
+Expected value is =   13769472, The result is =   13769472   True  for          83
+
+--------------------------
+Expected value is =   12390656, The result is =   12390656   True  for          84
+
+--------------------------
+Expected value is =   15667712, The result is =   15667712   True  for          85
+
+--------------------------
+Expected value is =    1157888, The result is =    1157888   True  for          86
+
+--------------------------
+Expected value is =    1227520, The result is =    1227520   True  for          87
+
+--------------------------
+Expected value is =    1297664, The result is =    1297664   True  for          88
+
+--------------------------
+Expected value is =   11672064, The result is =   11672064   True  for          89
+
+--------------------------
+Expected value is =   12786176, The result is =   12786176   True  for          90
+
+--------------------------
+Expected value is =   12886528, The result is =   12886528   True  for          91
+
+--------------------------
+Expected value is =   12790528, The result is =   12790528   True  for          92
+
+--------------------------
+Expected value is =   13769472, The result is =   13769472   True  for          93
+
+--------------------------
+Expected value is =   12390656, The result is =   12390656   True  for          94
+
+--------------------------
+Expected value is =   15667712, The result is =   15667712   True  for          95
+
+--------------------------
+Expected value is =    1157888, The result is =    1157888   True  for          96
+
+--------------------------
+Expected value is =    1227520, The result is =    1227520   True  for          97
+
+--------------------------
+Expected value is =    1297664, The result is =    1297664   True  for          98
+
+--------------------------
+Expected value is =   11672064, The result is =   11672064   True  for          99
+
+--------------------------
+Expected value is =   12786176, The result is =   12786176   True  for         100
+
+--------------------------
+Expected value is =   12886528, The result is =   12886528   True  for         101
+
+--------------------------
+Expected value is =   12790528, The result is =   12790528   True  for         102
+
+--------------------------
+Expected value is =   13769472, The result is =   13769472   True  for         103
+
+--------------------------
+Expected value is =   12390656, The result is =   12390656   True  for         104
+
+--------------------------
+Expected value is =   15667712, The result is =   15667712   True  for         105
+
+--------------------------
+Expected value is =    1157888, The result is =    1157888   True  for         106
+
+--------------------------
+Expected value is =    1227520, The result is =    1227520   True  for         107
+
+--------------------------
+Expected value is =    1297664, The result is =    1297664   True  for         108
+
+--------------------------
+Expected value is =   11672064, The result is =   11672064   True  for         109
+
+--------------------------
+Expected value is =   12786176, The result is =   12786176   True  for         110
+
+--------------------------
+Expected value is =    4861184, The result is =    4861184   True  for         111
+
+--------------------------
+Expected value is =   12790528, The result is =   12790528   True  for         112
+
+--------------------------
+Expected value is =   13769472, The result is =   13769472   True  for         113
+
+--------------------------
+Expected value is =   12390656, The result is =   12390656   True  for         114
+
+--------------------------
+Expected value is =   15667712, The result is =   15667712   True  for         115
+
+--------------------------
+Expected value is =    1157888, The result is =    1157888   True  for         116
+
+--------------------------
+Expected value is =    1227520, The result is =    1227520   True  for         117
+
+--------------------------
+Expected value is =    1297664, The result is =    1297664   True  for         118
+
+--------------------------
+Expected value is =   11672064, The result is =   11672064   True  for         119
+
+--------------------------
+Expected value is =   12786176, The result is =   12786176   True  for         120
+
+--------------------------
+Expected value is =    4861184, The result is =    4861184   True  for         121
+
+--------------------------
+Expected value is =   12790528, The result is =   12790528   True  for         122
+
+--------------------------
+Expected value is =   13769472, The result is =   13769472   True  for         123
+
+--------------------------
+Expected value is =   12390656, The result is =   12390656   True  for         124
+
+--------------------------
+Expected value is =   15667712, The result is =   15667712   True  for         125
+
+--------------------------
+Expected value is =    1157888, The result is =    1157888   True  for         126
+
+--------------------------
+Expected value is =    1227520, The result is =    1227520   True  for         127
+
+--------------------------
+STRB = 1100 
+
+Expected value is =  447873024, The result is =  447873024   True  for           0
+
+--------------------------
+Expected value is =  734199808, The result is =  734199808   True  for           1
+
+--------------------------
+Expected value is =  466747392, The result is =  466747392   True  for           2
+
+--------------------------
+Expected value is =  297598976, The result is =  297598976   True  for           3
+
+--------------------------
+Expected value is =  317652992, The result is =  317652992   True  for           4
+
+--------------------------
+Expected value is = 2870018048, The result is = 2870018048   True  for           5
+
+--------------------------
+Expected value is = 3138519040, The result is = 3138519040   True  for           6
+
+--------------------------
+Expected value is = 3440574464, The result is = 3440574464   True  for           7
+
+--------------------------
+Expected value is =  447873024, The result is =  447873024   True  for           8
+
+--------------------------
+Expected value is =  734199808, The result is =  734199808   True  for           9
+
+--------------------------
+Expected value is = 3015966720, The result is = 3015966720   True  for          10
+
+--------------------------
+Expected value is =  447873024, The result is =  447873024   True  for          11
+
+--------------------------
+Expected value is =  734199808, The result is =  734199808   True  for          12
+
+--------------------------
+Expected value is =  466747392, The result is =  466747392   True  for          13
+
+--------------------------
+Expected value is =  297598976, The result is =  297598976   True  for          14
+
+--------------------------
+Expected value is =  317652992, The result is =  317652992   True  for          15
+
+--------------------------
+Expected value is = 2870018048, The result is = 2870018048   True  for          16
+
+--------------------------
+Expected value is = 3138519040, The result is = 3138519040   True  for          17
+
+--------------------------
+Expected value is = 3440574464, The result is = 3440574464   True  for          18
+
+--------------------------
+Expected value is =  447873024, The result is =  447873024   True  for          19
+
+--------------------------
+Expected value is =  734199808, The result is =  734199808   True  for          20
+
+--------------------------
+Expected value is = 3015966720, The result is = 3015966720   True  for          21
+
+--------------------------
+Expected value is =  734199808, The result is =  734199808   True  for          22
+
+--------------------------
+Expected value is =  466747392, The result is =  466747392   True  for          23
+
+--------------------------
+Expected value is =  297598976, The result is =  297598976   True  for          24
+
+--------------------------
+Expected value is =  317652992, The result is =  317652992   True  for          25
+
+--------------------------
+Expected value is = 2870018048, The result is = 2870018048   True  for          26
+
+--------------------------
+Expected value is = 3138519040, The result is = 3138519040   True  for          27
+
+--------------------------
+Expected value is = 3440574464, The result is = 3440574464   True  for          28
+
+--------------------------
+Expected value is =  447873024, The result is =  447873024   True  for          29
+
+--------------------------
+Expected value is =  734199808, The result is =  734199808   True  for          30
+
+--------------------------
+Expected value is = 3015966720, The result is = 3015966720   True  for          31
+
+--------------------------
+Expected value is =  734199808, The result is =  734199808   True  for          32
+
+--------------------------
+Expected value is =  466747392, The result is =  466747392   True  for          33
+
+--------------------------
+Expected value is =  297598976, The result is =  297598976   True  for          34
+
+--------------------------
+Expected value is =  317652992, The result is =  317652992   True  for          35
+
+--------------------------
+Expected value is = 2870018048, The result is = 2870018048   True  for          36
+
+--------------------------
+Expected value is = 3138519040, The result is = 3138519040   True  for          37
+
+--------------------------
+Expected value is = 3440574464, The result is = 3440574464   True  for          38
+
+--------------------------
+Expected value is =  447873024, The result is =  447873024   True  for          39
+
+--------------------------
+Expected value is =  734199808, The result is =  734199808   True  for          40
+
+--------------------------
+Expected value is = 3015966720, The result is = 3015966720   True  for          41
+
+--------------------------
+Expected value is =  734199808, The result is =  734199808   True  for          42
+
+--------------------------
+Expected value is =  466747392, The result is =  466747392   True  for          43
+
+--------------------------
+Expected value is =  297598976, The result is =  297598976   True  for          44
+
+--------------------------
+Expected value is =  317652992, The result is =  317652992   True  for          45
+
+--------------------------
+Expected value is = 2870018048, The result is = 2870018048   True  for          46
+
+--------------------------
+Expected value is = 3138519040, The result is = 3138519040   True  for          47
+
+--------------------------
+Expected value is = 3440574464, The result is = 3440574464   True  for          48
+
+--------------------------
+Expected value is =  447873024, The result is =  447873024   True  for          49
+
+--------------------------
+Expected value is =  734199808, The result is =  734199808   True  for          50
+
+--------------------------
+Expected value is = 3015966720, The result is = 3015966720   True  for          51
+
+--------------------------
+Expected value is =  734199808, The result is =  734199808   True  for          52
+
+--------------------------
+Expected value is =  466747392, The result is =  466747392   True  for          53
+
+--------------------------
+Expected value is =  297598976, The result is =  297598976   True  for          54
+
+--------------------------
+Expected value is =  317652992, The result is =  317652992   True  for          55
+
+--------------------------
+Expected value is = 2870018048, The result is = 2870018048   True  for          56
+
+--------------------------
+Expected value is = 3138519040, The result is = 3138519040   True  for          57
+
+--------------------------
+Expected value is = 3440574464, The result is = 3440574464   True  for          58
+
+--------------------------
+Expected value is =  447873024, The result is =  447873024   True  for          59
+
+--------------------------
+Expected value is =  734199808, The result is =  734199808   True  for          60
+
+--------------------------
+Expected value is = 3015966720, The result is = 3015966720   True  for          61
+
+--------------------------
+Expected value is =  734199808, The result is =  734199808   True  for          62
+
+--------------------------
+Expected value is =  466747392, The result is =  466747392   True  for          63
+
+--------------------------
+Expected value is =  297598976, The result is =  297598976   True  for          64
+
+--------------------------
+Expected value is =  317652992, The result is =  317652992   True  for          65
+
+--------------------------
+Expected value is = 2870018048, The result is = 2870018048   True  for          66
+
+--------------------------
+Expected value is = 3138519040, The result is = 3138519040   True  for          67
+
+--------------------------
+Expected value is = 3440574464, The result is = 3440574464   True  for          68
+
+--------------------------
+Expected value is =  447873024, The result is =  447873024   True  for          69
+
+--------------------------
+Expected value is =  734199808, The result is =  734199808   True  for          70
+
+--------------------------
+Expected value is = 3015966720, The result is = 3015966720   True  for          71
+
+--------------------------
+Expected value is =  734199808, The result is =  734199808   True  for          72
+
+--------------------------
+Expected value is =  466747392, The result is =  466747392   True  for          73
+
+--------------------------
+Expected value is =  297598976, The result is =  297598976   True  for          74
+
+--------------------------
+Expected value is =  317652992, The result is =  317652992   True  for          75
+
+--------------------------
+Expected value is = 2870018048, The result is = 2870018048   True  for          76
+
+--------------------------
+Expected value is = 3138519040, The result is = 3138519040   True  for          77
+
+--------------------------
+Expected value is = 3440574464, The result is = 3440574464   True  for          78
+
+--------------------------
+Expected value is =  447873024, The result is =  447873024   True  for          79
+
+--------------------------
+Expected value is =  734199808, The result is =  734199808   True  for          80
+
+--------------------------
+Expected value is = 3015966720, The result is = 3015966720   True  for          81
+
+--------------------------
+Expected value is =  734199808, The result is =  734199808   True  for          82
+
+--------------------------
+Expected value is =  466747392, The result is =  466747392   True  for          83
+
+--------------------------
+Expected value is =  297598976, The result is =  297598976   True  for          84
+
+--------------------------
+Expected value is =  317652992, The result is =  317652992   True  for          85
+
+--------------------------
+Expected value is = 2870018048, The result is = 2870018048   True  for          86
+
+--------------------------
+Expected value is = 3138519040, The result is = 3138519040   True  for          87
+
+--------------------------
+Expected value is = 3440574464, The result is = 3440574464   True  for          88
+
+--------------------------
+Expected value is =  447873024, The result is =  447873024   True  for          89
+
+--------------------------
+Expected value is =  734199808, The result is =  734199808   True  for          90
+
+--------------------------
+Expected value is = 3015966720, The result is = 3015966720   True  for          91
+
+--------------------------
+Expected value is =  734199808, The result is =  734199808   True  for          92
+
+--------------------------
+Expected value is =  466747392, The result is =  466747392   True  for          93
+
+--------------------------
+Expected value is =  297598976, The result is =  297598976   True  for          94
+
+--------------------------
+Expected value is =  317652992, The result is =  317652992   True  for          95
+
+--------------------------
+Expected value is = 2870018048, The result is = 2870018048   True  for          96
+
+--------------------------
+Expected value is = 3138519040, The result is = 3138519040   True  for          97
+
+--------------------------
+Expected value is = 3440574464, The result is = 3440574464   True  for          98
+
+--------------------------
+Expected value is =  447873024, The result is =  447873024   True  for          99
+
+--------------------------
+Expected value is =  734199808, The result is =  734199808   True  for         100
+
+--------------------------
+Expected value is = 3015966720, The result is = 3015966720   True  for         101
+
+--------------------------
+Expected value is =  734199808, The result is =  734199808   True  for         102
+
+--------------------------
+Expected value is =  466747392, The result is =  466747392   True  for         103
+
+--------------------------
+Expected value is =  297598976, The result is =  297598976   True  for         104
+
+--------------------------
+Expected value is =  317652992, The result is =  317652992   True  for         105
+
+--------------------------
+Expected value is = 2870018048, The result is = 2870018048   True  for         106
+
+--------------------------
+Expected value is = 3138519040, The result is = 3138519040   True  for         107
+
+--------------------------
+Expected value is = 3440574464, The result is = 3440574464   True  for         108
+
+--------------------------
+Expected value is =  447873024, The result is =  447873024   True  for         109
+
+--------------------------
+Expected value is =  734199808, The result is =  734199808   True  for         110
+
+--------------------------
+Expected value is = 1011482624, The result is = 1011482624   True  for         111
+
+--------------------------
+Expected value is =  734199808, The result is =  734199808   True  for         112
+
+--------------------------
+Expected value is =  466747392, The result is =  466747392   True  for         113
+
+--------------------------
+Expected value is =  297598976, The result is =  297598976   True  for         114
+
+--------------------------
+Expected value is =  317652992, The result is =  317652992   True  for         115
+
+--------------------------
+Expected value is = 2870018048, The result is = 2870018048   True  for         116
+
+--------------------------
+Expected value is = 3138519040, The result is = 3138519040   True  for         117
+
+--------------------------
+Expected value is = 3440574464, The result is = 3440574464   True  for         118
+
+--------------------------
+Expected value is =  447873024, The result is =  447873024   True  for         119
+
+--------------------------
+Expected value is =  734199808, The result is =  734199808   True  for         120
+
+--------------------------
+Expected value is = 1011482624, The result is = 1011482624   True  for         121
+
+--------------------------
+Expected value is =  734199808, The result is =  734199808   True  for         122
+
+--------------------------
+Expected value is =  466747392, The result is =  466747392   True  for         123
+
+--------------------------
+Expected value is =  297598976, The result is =  297598976   True  for         124
+
+--------------------------
+Expected value is =  317652992, The result is =  317652992   True  for         125
+
+--------------------------
+Expected value is = 2870018048, The result is = 2870018048   True  for         126
+
+--------------------------
+Expected value is = 3138519040, The result is = 3138519040   True  for         127
+
+--------------------------
+STRB = 1111 
+
+Expected value is =  447879858, The result is =  447879858   True  for           0
+
+--------------------------
+Expected value is =  734211011, The result is =  734211011   True  for           1
+
+--------------------------
+Expected value is =  466754514, The result is =  466754514   True  for           2
+
+--------------------------
+Expected value is =  297603517, The result is =  297603517   True  for           3
+
+--------------------------
+Expected value is =  317657839, The result is =  317657839   True  for           4
+
+--------------------------
+Expected value is = 2870061841, The result is = 2870061841   True  for           5
+
+--------------------------
+Expected value is = 3138566930, The result is = 3138566930   True  for           6
+
+--------------------------
+Expected value is = 3440626963, The result is = 3440626963   True  for           7
+
+--------------------------
+Expected value is =  447879858, The result is =  447879858   True  for           8
+
+--------------------------
+Expected value is =  734206642, The result is =  734206642   True  for           9
+
+--------------------------
+Expected value is = 3016008401, The result is = 3016008401   True  for          10
+
+--------------------------
+Expected value is =  447879858, The result is =  447879858   True  for          11
+
+--------------------------
+Expected value is =  734211011, The result is =  734211011   True  for          12
+
+--------------------------
+Expected value is =  466754514, The result is =  466754514   True  for          13
+
+--------------------------
+Expected value is =  297603517, The result is =  297603517   True  for          14
+
+--------------------------
+Expected value is =  317657839, The result is =  317657839   True  for          15
+
+--------------------------
+Expected value is = 2870061841, The result is = 2870061841   True  for          16
+
+--------------------------
+Expected value is = 3138566930, The result is = 3138566930   True  for          17
+
+--------------------------
+Expected value is = 3440626963, The result is = 3440626963   True  for          18
+
+--------------------------
+Expected value is =  447879858, The result is =  447879858   True  for          19
+
+--------------------------
+Expected value is =  734206642, The result is =  734206642   True  for          20
+
+--------------------------
+Expected value is = 3016008401, The result is = 3016008401   True  for          21
+
+--------------------------
+Expected value is =  734211011, The result is =  734211011   True  for          22
+
+--------------------------
+Expected value is =  466754514, The result is =  466754514   True  for          23
+
+--------------------------
+Expected value is =  297603517, The result is =  297603517   True  for          24
+
+--------------------------
+Expected value is =  317657839, The result is =  317657839   True  for          25
+
+--------------------------
+Expected value is = 2870061841, The result is = 2870061841   True  for          26
+
+--------------------------
+Expected value is = 3138566930, The result is = 3138566930   True  for          27
+
+--------------------------
+Expected value is = 3440626963, The result is = 3440626963   True  for          28
+
+--------------------------
+Expected value is =  447879858, The result is =  447879858   True  for          29
+
+--------------------------
+Expected value is =  734206642, The result is =  734206642   True  for          30
+
+--------------------------
+Expected value is = 3016008401, The result is = 3016008401   True  for          31
+
+--------------------------
+Expected value is =  734211011, The result is =  734211011   True  for          32
+
+--------------------------
+Expected value is =  466754514, The result is =  466754514   True  for          33
+
+--------------------------
+Expected value is =  297603517, The result is =  297603517   True  for          34
+
+--------------------------
+Expected value is =  317657839, The result is =  317657839   True  for          35
+
+--------------------------
+Expected value is = 2870061841, The result is = 2870061841   True  for          36
+
+--------------------------
+Expected value is = 3138566930, The result is = 3138566930   True  for          37
+
+--------------------------
+Expected value is = 3440626963, The result is = 3440626963   True  for          38
+
+--------------------------
+Expected value is =  447879858, The result is =  447879858   True  for          39
+
+--------------------------
+Expected value is =  734206642, The result is =  734206642   True  for          40
+
+--------------------------
+Expected value is = 3016008401, The result is = 3016008401   True  for          41
+
+--------------------------
+Expected value is =  734211011, The result is =  734211011   True  for          42
+
+--------------------------
+Expected value is =  466754514, The result is =  466754514   True  for          43
+
+--------------------------
+Expected value is =  297603517, The result is =  297603517   True  for          44
+
+--------------------------
+Expected value is =  317657839, The result is =  317657839   True  for          45
+
+--------------------------
+Expected value is = 2870061841, The result is = 2870061841   True  for          46
+
+--------------------------
+Expected value is = 3138566930, The result is = 3138566930   True  for          47
+
+--------------------------
+Expected value is = 3440626963, The result is = 3440626963   True  for          48
+
+--------------------------
+Expected value is =  447879858, The result is =  447879858   True  for          49
+
+--------------------------
+Expected value is =  734206642, The result is =  734206642   True  for          50
+
+--------------------------
+Expected value is = 3016008401, The result is = 3016008401   True  for          51
+
+--------------------------
+Expected value is =  734211011, The result is =  734211011   True  for          52
+
+--------------------------
+Expected value is =  466754514, The result is =  466754514   True  for          53
+
+--------------------------
+Expected value is =  297603517, The result is =  297603517   True  for          54
+
+--------------------------
+Expected value is =  317657839, The result is =  317657839   True  for          55
+
+--------------------------
+Expected value is = 2870061841, The result is = 2870061841   True  for          56
+
+--------------------------
+Expected value is = 3138566930, The result is = 3138566930   True  for          57
+
+--------------------------
+Expected value is = 3440626963, The result is = 3440626963   True  for          58
+
+--------------------------
+Expected value is =  447879858, The result is =  447879858   True  for          59
+
+--------------------------
+Expected value is =  734206642, The result is =  734206642   True  for          60
+
+--------------------------
+Expected value is = 3016008401, The result is = 3016008401   True  for          61
+
+--------------------------
+Expected value is =  734211011, The result is =  734211011   True  for          62
+
+--------------------------
+Expected value is =  466754514, The result is =  466754514   True  for          63
+
+--------------------------
+Expected value is =  297603517, The result is =  297603517   True  for          64
+
+--------------------------
+Expected value is =  317657839, The result is =  317657839   True  for          65
+
+--------------------------
+Expected value is = 2870061841, The result is = 2870061841   True  for          66
+
+--------------------------
+Expected value is = 3138566930, The result is = 3138566930   True  for          67
+
+--------------------------
+Expected value is = 3440626963, The result is = 3440626963   True  for          68
+
+--------------------------
+Expected value is =  447879858, The result is =  447879858   True  for          69
+
+--------------------------
+Expected value is =  734206642, The result is =  734206642   True  for          70
+
+--------------------------
+Expected value is = 3016008401, The result is = 3016008401   True  for          71
+
+--------------------------
+Expected value is =  734211011, The result is =  734211011   True  for          72
+
+--------------------------
+Expected value is =  466754514, The result is =  466754514   True  for          73
+
+--------------------------
+Expected value is =  297603517, The result is =  297603517   True  for          74
+
+--------------------------
+Expected value is =  317657839, The result is =  317657839   True  for          75
+
+--------------------------
+Expected value is = 2870061841, The result is = 2870061841   True  for          76
+
+--------------------------
+Expected value is = 3138566930, The result is = 3138566930   True  for          77
+
+--------------------------
+Expected value is = 3440626963, The result is = 3440626963   True  for          78
+
+--------------------------
+Expected value is =  447879858, The result is =  447879858   True  for          79
+
+--------------------------
+Expected value is =  734206642, The result is =  734206642   True  for          80
+
+--------------------------
+Expected value is = 3016008401, The result is = 3016008401   True  for          81
+
+--------------------------
+Expected value is =  734211011, The result is =  734211011   True  for          82
+
+--------------------------
+Expected value is =  466754514, The result is =  466754514   True  for          83
+
+--------------------------
+Expected value is =  297603517, The result is =  297603517   True  for          84
+
+--------------------------
+Expected value is =  317657839, The result is =  317657839   True  for          85
+
+--------------------------
+Expected value is = 2870061841, The result is = 2870061841   True  for          86
+
+--------------------------
+Expected value is = 3138566930, The result is = 3138566930   True  for          87
+
+--------------------------
+Expected value is = 3440626963, The result is = 3440626963   True  for          88
+
+--------------------------
+Expected value is =  447879858, The result is =  447879858   True  for          89
+
+--------------------------
+Expected value is =  734206642, The result is =  734206642   True  for          90
+
+--------------------------
+Expected value is = 3016008401, The result is = 3016008401   True  for          91
+
+--------------------------
+Expected value is =  734211011, The result is =  734211011   True  for          92
+
+--------------------------
+Expected value is =  466754514, The result is =  466754514   True  for          93
+
+--------------------------
+Expected value is =  297603517, The result is =  297603517   True  for          94
+
+--------------------------
+Expected value is =  317657839, The result is =  317657839   True  for          95
+
+--------------------------
+Expected value is = 2870061841, The result is = 2870061841   True  for          96
+
+--------------------------
+Expected value is = 3138566930, The result is = 3138566930   True  for          97
+
+--------------------------
+Expected value is = 3440626963, The result is = 3440626963   True  for          98
+
+--------------------------
+Expected value is =  447879858, The result is =  447879858   True  for          99
+
+--------------------------
+Expected value is =  734206642, The result is =  734206642   True  for         100
+
+--------------------------
+Expected value is = 3016008401, The result is = 3016008401   True  for         101
+
+--------------------------
+Expected value is =  734211011, The result is =  734211011   True  for         102
+
+--------------------------
+Expected value is =  466754514, The result is =  466754514   True  for         103
+
+--------------------------
+Expected value is =  297603517, The result is =  297603517   True  for         104
+
+--------------------------
+Expected value is =  317657839, The result is =  317657839   True  for         105
+
+--------------------------
+Expected value is = 2870061841, The result is = 2870061841   True  for         106
+
+--------------------------
+Expected value is = 3138566930, The result is = 3138566930   True  for         107
+
+--------------------------
+Expected value is = 3440626963, The result is = 3440626963   True  for         108
+
+--------------------------
+Expected value is =  447879858, The result is =  447879858   True  for         109
+
+--------------------------
+Expected value is =  734206642, The result is =  734206642   True  for         110
+
+--------------------------
+Expected value is = 1011494161, The result is = 1011494161   True  for         111
+
+--------------------------
+Expected value is =  734211011, The result is =  734211011   True  for         112
+
+--------------------------
+Expected value is =  466754514, The result is =  466754514   True  for         113
+
+--------------------------
+Expected value is =  297603517, The result is =  297603517   True  for         114
+
+--------------------------
+Expected value is =  317657839, The result is =  317657839   True  for         115
+
+--------------------------
+Expected value is = 2870061841, The result is = 2870061841   True  for         116
+
+--------------------------
+Expected value is = 3138566930, The result is = 3138566930   True  for         117
+
+--------------------------
+Expected value is = 3440626963, The result is = 3440626963   True  for         118
+
+--------------------------
+Expected value is =  447879858, The result is =  447879858   True  for         119
+
+--------------------------
+Expected value is =  734206642, The result is =  734206642   True  for         120
+
+--------------------------
+Expected value is = 1011494161, The result is = 1011494161   True  for         121
+
+--------------------------
+Expected value is =  734211011, The result is =  734211011   True  for         122
+
+--------------------------
+Expected value is =  466754514, The result is =  466754514   True  for         123
+
+--------------------------
+Expected value is =  297603517, The result is =  297603517   True  for         124
+
+--------------------------
+Expected value is =  317657839, The result is =  317657839   True  for         125
+
+--------------------------
+Expected value is = 2870061841, The result is = 2870061841   True  for         126
+
+--------------------------
+Expected value is = 3138566930, The result is = 3138566930   True  for         127
+
+--------------------------
