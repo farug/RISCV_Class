@@ -12,7 +12,7 @@ module sim2_tb ;
     integer i;
 
     initial begin
-        $readmemb("C:/Users/omer/Desktop/Okul/Dersler_22-23_2.half/EHB425E/HW-08/verilog/sim/sim2/2.txt",mem);
+        $readmemb("C:/Users/omer/Documents/GitHub/RISCV_Class/RISCV_Pipeline/sim/sim2/2.txt",mem);
     end
 
     always begin

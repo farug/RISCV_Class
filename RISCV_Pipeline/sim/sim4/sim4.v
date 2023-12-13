@@ -12,7 +12,7 @@ module sim4_tb ;
     integer i;
 
     initial begin
-        $readmemb("C:/Users/omer/Desktop/Okul/Dersler_22-23_2.half/EHB425E/HW-08/verilog/sim/sim4/4.txt",mem);
+        $readmemb("C:/Users/omer/Documents/GitHub/RISCV_Class/RISCV_Pipeline/sim/sim4/4.txt",mem);
     end
 
     always begin
@@ -35,7 +35,7 @@ module sim4_tb ;
         #10;
         reset = 1'b1;
         we0 = 1'b1;
-        for (i =0 ;i<6 ;i=i+1 ) begin
+        for (i =0 ;i<7 ;i=i+1 ) begin
             we0 = 1'b1;
             wr_addr0 = 4*i;
             wr_din0 = mem[i];

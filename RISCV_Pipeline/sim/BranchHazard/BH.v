@@ -1,4 +1,4 @@
-module sim3_tb ;
+module BH_tb ;
     
     reg clk,reset,resetpc,we0;
     reg [8:0] wr_addr0;
@@ -12,7 +12,7 @@ module sim3_tb ;
     integer i;
 
     initial begin
-        $readmemb("C:/Users/omer/Documents/GitHub/RISCV_Class/RISCV_Pipeline/sim/sim3/3.txt",mem);
+        $readmemh("C:/Users/omer/Documents/GitHub/RISCV_Class/RISCV_Pipeline/sim/BranchHazard/BH.hex",mem);
     end
 
     always begin
@@ -35,7 +35,7 @@ module sim3_tb ;
         #10;
         reset = 1'b1;
         we0 = 1'b1;
-        for (i =0 ;i<4 ;i=i+1 ) begin
+        for (i =0 ;i<9 ;i=i+1 ) begin
             we0 = 1'b1;
             wr_addr0 = 4*i;
             wr_din0 = mem[i];
