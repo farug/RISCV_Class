@@ -19,8 +19,8 @@ module MEM_WB (
     output reg V_out,C_out,N_out,Z_out,L_out,
     output reg [6:0] opcode_out,
     output reg [2:0] funct3_out,
-    output reg [31:0] IMM_out,PC_out,
-    output reg reset_out
+    output reg [31:0] IMM_out,PC_out
+    //output reg reset_out
 );
     always @(posedge clk or negedge reset) begin
         if(!reset) begin

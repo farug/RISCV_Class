@@ -48,7 +48,7 @@ module IF_ID (
             opcode_out <= opcode_in;
             IMM_out <= IMM_in;
             PC_out <= PC_in;
-            reset_out <= 'd0;
+            reset_out <= 'd1;
         end
         
     end

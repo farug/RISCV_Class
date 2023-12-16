@@ -65,7 +65,7 @@ module EX_MEM (
             PC_out <= PC_in;
             RS2_out <= RS2_in;
             RS1_out <= RS1_in;
-            reset_out <= 'd0;
+            reset_out <= 'd1;
         end 
     end
 endmodule

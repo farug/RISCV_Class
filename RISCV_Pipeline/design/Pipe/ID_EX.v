@@ -78,7 +78,7 @@ module ID_EX (
             FW11_id_out <= FW11_id_in;
             RS2_out <= RS2_in;
             RS1_out <= RS1_in;
-            reset_out <= 'd0;
+            reset_out <= 'd1;
             FW02_id_out <= FW02_in;
             FW12_id_out <= FW12_in;
         end

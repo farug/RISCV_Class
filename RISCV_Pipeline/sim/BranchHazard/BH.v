@@ -35,7 +35,7 @@ module BH_tb ;
         #10;
         reset = 1'b1;
         we0 = 1'b1;
-        for (i =0 ;i<9 ;i=i+1 ) begin
+        for (i =0 ;i<10 ;i=i+1 ) begin
             we0 = 1'b1;
             wr_addr0 = 4*i;
             wr_din0 = mem[i];
