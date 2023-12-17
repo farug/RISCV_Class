@@ -45,10 +45,22 @@ module Top_Module_Pipe (
     wire [6:0] opcode1;
     wire [31:0] IMM1,PC1;
 
-    wire resetidex;
+    wire resetidex1;
     wire resetifid;
-    assign resetidex = idexreset&reset_jump2;
+    assign resetidex1 = idexreset&reset_jump2&reset_branch;
     assign resetifid = resetpc&reset_jump3&idexreset&reset_branch;
+
+   reg resetidex2;
+   reg resetidex3;
+
+    always @(posedge clk) begin
+            resetidex2 <= resetidex1;
+            resetidex3 <= resetidex2;
+    end
+
+    wire resetidex;
+    assign resetidex = resetidex1&resetidex2&resetidex3;
+
 
     IF_ID IFID(.clk(clk),.MP_in(MP),.MB_in(MB),.MD_in(MD),.MW_in(MW),.RW_in(RW),
     .FS_in(FS),.STRB_in(STRB),.RD_in(RD),.RS1_in(RS1),.RS2_in(RS2),
@@ -100,7 +112,7 @@ module Top_Module_Pipe (
 
     
 
-    Branch_Hazard BH(.V(V2),.C(C2),.N(C2),.Z(Z2),.L(L2),.opcode(opcode2),.PC(PC2),
+    Branch_Hazard BH(.clk(clk),.V(V2),.C(C2),.N(C2),.Z(Z2),.L(L2),.opcode(opcode2),.PC(PC2),
     .MPC(MPC),.PC_prev(PC_prev_hazard),
     .V_o(V_o),.C_o(C_o),.N_o(N_o),.Z_o(Z_o),.L_o(L_o),.reset(reset_branch),.opcode_o(opcode_o));
 
@@ -160,7 +172,6 @@ module Top_Module_Pipe (
 
 
 
-
     EX_MEM EXMEM(.clk(clk),.V_in(V2),.C_in(C2),.N_in(N2),.Z_in(Z2),.L_in(L2),.G_in(G),
     .RS1_out_in(Ap),.Data_out_in(Bp),.STRB_in(STRB2),.MD_in(MD2),.RD_in(RD2),  //Ap yerine a2 olabilir emin degilim kontrol et
     .RW_in(RW2),.MW_in(MW2),.opcode_in(opcode2),.funct3_in(funct32),.IMM_in(IMM2),
@@ -169,7 +180,7 @@ module Top_Module_Pipe (
     .RS1_out_out(RS1_out3),.Data_out_out(Data_out3),
     .STRB_out(STRB3),.MD_out(MD3),.RD_out(RD3),.RW_out(RW3),.MW_out(MW3),
     .opcode_out(opcode3),.funct3_out(funct33),.IMM_out(IMM3),.PC_out(PC3),
-    .reset(resetpc),.RS2_out(RS23),.RS1_out(RS13));
+    .reset(resetpc),.RS2_out(RS23),.RS1_out(RS13)); 
 
     wire [31:0] Data_out_mem,Data_in;
     wire FWD;
